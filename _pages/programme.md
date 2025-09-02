@@ -55,7 +55,7 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 
 ## Day 2 – Tuesday 9th September
 
-### 09:15–10:30 **Disc Structure and Evolution 3**
+### 09:15–10:30 **Disc Structure and Evolution 3** - Chair: Till Käufer
 - 09:15–09:30 **The transition from protoplanetary to debris discs** — Benjamin Homewood (Exeter)
 - 09:30–09:45 **VLTI reveals the inner disc of a massive protostar** — Maria Koutoulaki (Leeds)
 - 09:45–10:00 **Planetesimals in debris discs and dust grain sizes** — Jonathan Marshall (ASIAA)
@@ -64,17 +64,17 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 
 ### 10:30–11:00 Coffee Break
 
-### 11:00–11:45 **Irradiated Discs**
+### 11:00–11:45 **Irradiated Discs** - Chair: Belinda Damian
 - 11:00–11:15 **Externally irradiated planet-forming disks** — Thomas Haworth (QMUL)
 - 11:15–11:30 **The Lifetimes and Evolution of Discs in Starburst Environments** — Matt Cusack (Cardiff)
 - 11:30–11:45 **Role of Cluster Environment on Protoplanetary Disks** — Saumya Gupta (QMUL)
 
-### 11:45–12:00 **Disc Processes 1**
+### 11:45–12:00 **Disc Processes 1** - Chair: Belinda Damian
 - 11:45–12:00 **High angular resolution evidence of dust traps from deep ALMA Band 3 observations of LkCa15** — Anibal Sierra (UCL)
 
 ### 12:00–13:30 Lunch
 
-### 13:30–15:00 **Disc Processes 2**
+### 13:30–15:00 **Disc Processes 2** - Chair: Richard Booth
 - 13:30–13:45 **Planet migration in Turbulent Disc** — Yinhao Wu (Leicester)
 - 13:45–14:00 **Gone with Wind: CO depletion in MHD-wind driven discs** — Zuzanna Jonczyk (Leeds)
 - 14:00–14:15 **MRI and vertical oscillations in distorted disks** — Loren Held (DAMTP Cambridge)
@@ -84,7 +84,7 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 
 ### 15:00–15:30 Tea Break
 
-### 15:30–16:45 **Time Domain Studies of Discs 1**
+### 15:30–16:45 **Time Domain Studies of Discs 1** - Chair: Andrew Swan
 - 15:30–15:45 **WD Debris Disks: Variability Incompatible with Canonical Model** — Hiba Tu Noor (UCL)
 - 15:45–16:00 **Characterising a WD with transiting debris in the habitable zone** — Akshay Robert (UCL)
 - 16:00–16:15 **Temporal variation of warps & shadows in protoplanetary discs** — Katie Milsom (Exeter)
@@ -93,7 +93,7 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 
 ### 16:45–17:00 Conference Photo
 
-### 17:00–17:30 **Time Domain Studies of Discs 2**
+### 17:00–17:30 **Time Domain Studies of Discs 2** - Chair: Andrew Swan
 - 17:00–17:15 **The Missing YSO Outbursts: Mid-IR Selected Eruptive YSOs** — Calum Morris (Valparaíso)
 - 17:15–17:30 **𝜌 Ophiuchi and the hidden mass reservoir** — Isaac Radley (Leeds)
   
@@ -103,19 +103,19 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 
 ## Day 3 – Wednesday 10th September
 
-### 09:15–10:30 **Disc Composition**
+### 09:15–10:30 **Disc Composition** - Chair: Patricia Luppe
 - 09:15–09:30 **Dust compositions in white dwarf disks** — Andrew Swan (Warwick)
 - 09:30–09:45 **Inside the water snowline: connecting disk evolution to JWST spectra** — Till Käufer (Exeter)
 - 09:45–10:00 **Pebble Drift and Volatile Entrapment: Impact on Planet Formation Chemistry** — Joe Williams (Exeter)
 - 10:00–10:15 **Chemical co-evolution of dust and gas in protoplanetary discs** — Tamara Molyarova (Leeds)
 - 10:15–10:30 **Chemical Compositions of Disk-instability planets** — George Blaylock-Squibbs (UCLan)
 
-### 10:30–10:45 **Formation of Planets & Brown Dwarfs 1**
+### 10:30–10:45 **Formation of Planets & Brown Dwarfs 1** - Chair: Patricia Luppe
 - 10:30–10:45 **V960 Mon b: a dust-embedded substellar object formed by GI?** — Anuroop Dasgupta (ESO)
 
 ### 10:45–11:15 Coffee Break
 
-### 11:15–12:30 **Formation of Planets & Brown Dwarfs 2 & EDI session**
+### 11:15–12:30 **Formation of Planets & Brown Dwarfs 2 & EDI session** - Chair: Thomas Janneau
 - 11:15–11:30 **Planet formation by disc fragmentation: the impact of dust growth on opacity** — Hans Lee (Leicester)
 - 11:30–11:45 **Planet formation sculpted by infall: the importance of multi-scale turbulence** — Andrew Winter (QMUL)
 - 11:45–12:15 **Equity and Inclusivity Practices in Academia** — Amena Faruqi (Warwick)
@@ -123,12 +123,12 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 
 ### 12:30–14:00 Lunch
 
-### 14:00–14:45 **Formation of Planets & Brown Dwarfs 3**
+### 14:00–14:45 **Formation of Planets & Brown Dwarfs 3** - Chair: Jay Farihi
 - 14:00–14:15 **Towards a population synthesis study of increasingly realistic protoplanetary discs** — Adam Koval (Edinburgh)
 - 14:15–14:30 **Testing planet formation via GI: FU Ori outbursts and Free-Floating Planets** — Sergei Nayakshin (Leicester)
 - 14:30–14:45 **Planet formation in spontaneous dust traps in magnetized disks** — Timmy Delage (Imperial)
 
-### 14:45–15:45 **Exoplanet discs & planetesimal signatures**
+### 14:45–15:45 **Exoplanet discs & planetesimal signatures** - Chair: Jay Farihi
 - 14:45–15:00 **Exocomets Overview** — Daniela Iglesias (Leeds)
 - 15:00–15:15 **The search for Exorings and a Short Period Circumsecondary Disk Candidate** — Niamh Mallaghan (QUB)
 - 15:15–15:30 **Discs around planetary-mass objects: new insights from JWST** — Belinda Damian (St Andrews)
