@@ -25,7 +25,7 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 
 ### 10:15–10:45 Welcome Tea & Coffee
 
-### 10:45–12:30 **Introduction & Review Talks** — Chair: Phil Lucas
+### 10:45–12:30 **Introduction & Review Talks** — Chair: Tim Pearce
 - 10:45–11:00 **Introduction (Welcome, Code of Conduct, Logistics)** — Phil Lucas (Herts)
 - 11:00–11:30 ***Review Talk: Protoplanetary Discs*** — John Ilee (Leeds)
 - 11:30–12:00 ***Review Talk: Debris Discs*** — Minjae Kim (MSSL, UCL)
@@ -33,21 +33,21 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 
 ### 12:30–14:00 Lunch
 
-### 14:00–15:00 **Disc Structure and Evolution 1**
+### 14:00–15:00 **Disc Structure and Evolution 1** - Chair: Anibal Sierra
 - 14:00–14:15 **Insights into early stages of disk evolution** — Fabiola Antonietta Gerosa (UCL)
 - 14:15–14:30 **The fate of the 2nd circumbinary disc — post-AGB binaries** — Anna Penzlin (LMU Munich)
-- 14:30–14:45 **𝜌 Ophiuchi and the hidden mass reservoir** — Isaac Radley (Leeds)
-- 14:45–15:00 **Debris-disc masses: first constraints from narrow discs** — Tim Pearce (Warwick)
+- 14:30–14:45 **Debris-disc masses: first constraints from narrow discs** — Tim Pearce (Warwick)
+- 14:45–15:00 **The Secret Lives of Disks: the earliest stages** — Maria Jose Maureira (MPE)
 
 ### 15:00–15:30 Tea Break
 
-### 15:30–16:30 **Disc Structure and Evolution 2**
-- 15:30–15:45 **The Secret Lives of Disks: the earliest stages** — Maria Jose Maureira (MPE)
-- 15:45–16:00 **(Sub)mm Analysis of HD 32297’s Edge-on Debris Disk** — Patricia Luppe (Trinity)
-- 16:00–16:15 **The ODISEA Project: Planet Formation in 𝜌 Ophiuchi** — Camilo González-Ruilova (USantiago)
-- 16:15–16:30 **Asymmetric debris disks: how do eccentric rings glow?** — Joshua Lovell (CfA Harvard-Smithsonian)
+### 15:30–16:30 **Disc Structure and Evolution 2** - Chair: Maria Koutoulaki
+- 15:30–15:45 **(Sub)mm Analysis of HD 32297’s Edge-on Debris Disk** — Patricia Luppe (Trinity)
+- 15:45–16:00 **The ODISEA Project: Planet Formation in 𝜌 Ophiuchi** — Camilo González-Ruilova (USantiago)
+- 16:00–16:15 **Asymmetric debris disks: how do eccentric rings glow?** — Joshua Lovell (CfA Harvard-Smithsonian)
+- 16:15–16:30 **Non-Thermal Radio Variability in YSOs: A VLBA Census of the ONC** — Eoin O'Kelly (Herts)
 
-### 16:30–17:00 Poster Pop-ups
+### 16:30–17:00 Poster Pop-ups – Chair: Mike Kuhn
 
 ### 17:00–18:30 Poster Session & Drinks
 
@@ -94,9 +94,9 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 ### 16:45–17:00 Conference Photo
 
 ### 17:00–17:30 **Time Domain Studies of Discs 2**
-- 17:00–17:15 **Non-Thermal Radio Variability in YSOs: A VLBA Census of the ONC** — Eoin O'Kelly (Herts)
-- 17:15–17:30 **The Missing YSO Outbursts: Mid-IR Selected Eruptive YSOs** — Calum Morris (Valparaíso)
-
+- 17:00–17:15 **The Missing YSO Outbursts: Mid-IR Selected Eruptive YSOs** — Calum Morris (Valparaíso)
+- 17:15–17:30 **𝜌 Ophiuchi and the hidden mass reservoir** — Isaac Radley (Leeds)
+  
 ### 17:30–18:00 Discussion
 
 <hr style="height:3px; border:none; background-color:#333;" />
@@ -106,7 +106,7 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 ### 09:15–10:30 **Disc Composition**
 - 09:15–09:30 **Dust compositions in white dwarf disks** — Andrew Swan (Warwick)
 - 09:30–09:45 **Inside the water snowline: connecting disk evolution to JWST spectra** — Till Käufer (Exeter)
-- 09:45–10:00 **ARKS: Resolved 12CO/13CO Ratios in Debris Discs** — Sorcha Mac Manamon (Trinity)
+- 09:45–10:00 **Pebble Drift and Volatile Entrapment: Impact on Planet Formation Chemistry** — Joe Williams (Exeter)
 - 10:00–10:15 **Chemical co-evolution of dust and gas in protoplanetary discs** — Tamara Molyarova (Leeds)
 - 10:15–10:30 **Chemical Compositions of Disk-instability planets** — George Blaylock-Squibbs (UCLan)
 
