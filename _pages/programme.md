@@ -140,7 +140,7 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 
 <h1 id="posters" style="text-align: center;">Poster Presentations</h1>
 
-- **Dust trapping in protoplanetary discs after stellar flybys** — Pratishtha Rawat (Warwick)
+- **Triggered fragmentation in self-gravitating protoplanetary disks** — Pratishtha Rawat (Warwick)
 - **Dust trapping in protoplanetary discs after stellar flybys** — Vasundhara Prasad (Cambridge)
 - **Unusual Planetary Systems with Massive Debris Disks** — Zoe Parker (Leeds)
 - **Tracking the evolution of gas clumps in gravitational instability discs** — Luyao Zhang (Leicester)
