@@ -34,6 +34,8 @@ There are relatively few budget hotel options in Hatfield this year. The nearby 
 <p id="breakfast-note"><sup>[1]</sup> The prepaid breakfast option in the dining hall is only available on Tuesday 9th and Wednesday 10th. For those needing breakfast on Monday 8th, local options include the Sports Cafe on campus (limited selections) or the Wetherspoons close to campus for a full breakfast.</p>
 
 ## Campus Map {#Map}
+
+The meeting will take place on the de Havilland campus in room N001.
 ![Campus Map](../assets/images/de-Havilland-campus-map.png)
 
 
@@ -76,6 +78,25 @@ Lunch is included with the meeting registration. If you have any dietary require
 
 ### *Refreshments*
 We will be providing refreshments (tea, coffee, fruit juice, water, biscuits) throughout the meeting. 
+
+### *Dinner/Restaurants*
+
+We've arranged coach transport 4 miles down the road to St Albans, leaving campus at 6.40 pm for any who want it on Monday and Tuesday. A list of local restaurants in St Albans is provided below.
+
+| Italian                                   | Indian                                | British                                   | Others                                                  |
+|-------------------------------------------|---------------------------------------|-------------------------------------------|---------------------------------------------------------|
+| Per Tutti                                 | Infuse (closed on Mondays)            | The Ivy (restaurant)                      | Bar Meze (Cypriot)                                      |
+| Zizzi                                     | Veer Dhara                            | The Beech House (gastropub)               | Cote St Albans (French)                                 |
+| L'Italiana                                | Amrit                                 | The Cock Inn (no low budget options)      | Craft & Cleaver (US - Barbecue-style)                   |
+| Locanda Bagutta (closed on Mondays)       | Chili Bar & Kitchen                   | Prime Steak and Grill                     | Tabure (Mediterranean)                                  |
+| Ballacino's                               | Swadisht (closed on Tuesdays)         | The Beehive (pub)                         | Saute (Turkish)                                         |
+| La Cosa Nostra                            | Chez Mumtaj (closed on Mondays)       | White Hart Tap (pub)                      | Wagamama (Asian fusion)                                 |
+|                                           | Samrat                                | The Mermaid (pub)                         | Little Marrakech (Moroccan) closes early on Mondays     |
+|                                           | St Albans Tandoori                    | The White Lion (pub)                      |                                                         |
+|                                           | The Alban                             | Lower Red Lion (pub)                      |                                                         |
+|                                           |                                       | Waterend Barn (Wetherspoons)              |                                                         |
+|                                           |                                       | Peahen (pub)                              |                                                         |
+|                                           |                                       | Blacksmith's Arms (pub)                   |                                                         |
 
 ## Local Interest {#Local}
 - Hatfield is just 7 miles from <a href='https://www.enjoystalbans.com/things-to-do/'>St Albans</a>, a historic market town with strong Roman and mediaeval roots. Highlights include St Albans Abbey and the Roman ruins of Verulamium. We plan to arrange transport to St Albans for conference groups to enjoy dinner together. 
