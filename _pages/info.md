@@ -83,6 +83,14 @@ We will be providing refreshments (tea, coffee, fruit juice, water, biscuits) th
 
 We've arranged coach transport 4 miles down the road to St Albans, leaving campus at 6.40 pm for any who want it on Monday and Tuesday. A list of local restaurants in St Albans is provided below.
 
+All the restaurants are within walking 
+distance of where the coaches will be stopping on St Peter's street. Rather than arrange a big group dinner, we encourage participants to
+form groups for dinner each night, e.g. by preferred type of restaurant or preferred science topic.
+
+We have not arranged return transport but buses run until late from St Peter's street back to de Havilland campus. Uber (~£15 fare) and 
+several taxi companies also operate in the area, e.g.  A1 Taxis (01727 86666) and  Gold Line taxis (01727 833333).
+
+
 | Italian                                   | Indian                                | British                                   | Others                                                  |
 |-------------------------------------------|---------------------------------------|-------------------------------------------|---------------------------------------------------------|
 | Per Tutti                                 | Infuse (closed on Mondays)            | The Ivy (restaurant)                      | Bar Meze (Cypriot)                                      |
