@@ -6,6 +6,9 @@ header:
   caption: "Credit: © Mark Garlick."
 ---
 
+![Conference Photos](../assets/images/No1.JPG)
+![Conference Photos](../assets/images/No3.JPG)
+
 - Sana Ahmed (Trinity College Dublin, Ireland)
 - Felipe Alarcón (Universitá degli Studi di Milano)
 - Juanita Antilen (University College London)
