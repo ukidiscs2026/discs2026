@@ -29,6 +29,9 @@ For any queries, please email [discs2025@herts.ac.uk](mailto:discs2025@herts.ac.
 ## LOC
 - Loren E Held (chair - DAMTP, Cambridge)
 - Thomas Jannaud (co-chair - DAMTP, Cambridge)
+- Gordon Ogilvie (DAMTP, Cambridge)
+- Henrik Latter (DAMTP, Cambridge)
+- Roman Rafikov (DAMTP, Cambridge)
 - Cristiano Longarini (Institute of Astronomy)
 - Amelia Cordwell (DAMTP, Cambridge)
 - Josh Brown (DAMTP, Cambridge)
