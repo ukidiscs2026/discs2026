@@ -13,7 +13,7 @@ header:
 - [Local Interest](#Local)
 - [Pool and Gym](#Gym)
 
-The UKI Discs Meeting will take place in [Room N001 of the de Havilland Main Building](https://maps.herts.ac.uk) on the University of Hertfordshire’s de Havilland Campus in Hatfield, Hertfordshire. The university comprises two campuses—College Lane and de Havilland—which are within walking distance of each other and the nearby Galleria shopping centre. A bus also connects the campuses for added convenience.
+The UKI Discs Meeting 2026 will take place in [Meeting Room 2 (MR2) at the Centre for Mathematical Sciences, Department of Applied Mathematics and Theoretical Physics]([https://maps.herts.ac.uk](https://www.cms.cam.ac.uk/how-find-us)). The department is within walking distance of nearby Churchill College (5min), the Institute of Astronomy (10min), Westminster College (15min), and the city center (20min). Bus info TBD.
 
 ## Accommodation {#Accommodation} 
 
@@ -35,7 +35,7 @@ There are relatively few budget hotel options in Hatfield this year. The nearby 
 
 ## Campus Map {#Map}
 
-The meeting will take place on the de Havilland campus in room N001.
+The meeting will take place in Meeting Room (MR2) in Pavilion A (Central Core) of the Centre for Mathematical Sciences.
 ![Campus Map](../assets/images/de-Havilland-campus-map.png)
 
 
@@ -81,30 +81,7 @@ We will be providing refreshments (tea, coffee, fruit juice, water, biscuits) th
 
 ### *Dinner/Restaurants*
 
-We've arranged coach transport 4 miles down the road to St Albans, leaving campus at 6.40 pm for any who want it on Monday and Tuesday. A list of local restaurants in St Albans is provided below.
-
-All the restaurants are within walking 
-distance of where the coaches will be stopping on St Peter's street. Rather than arrange a big group dinner, we encourage participants to
-form groups for dinner each night, e.g. by preferred type of restaurant or preferred science topic.
-
-We have not arranged return transport but buses run until late from St Peter's street back to de Havilland campus. Uber (~£15 fare) and 
-several taxi companies also operate in the area, e.g.  A1 Taxis (01727 86666) and  Gold Line taxis (01727 833333).
-
-
-| Italian                                   | Indian                                | British                                   | Others                                                  |
-|-------------------------------------------|---------------------------------------|-------------------------------------------|---------------------------------------------------------|
-| Per Tutti                                 | Infuse (closed on Mondays)            | The Ivy (restaurant)                      | Bar Meze (Cypriot)                                      |
-| Zizzi                                     | Veer Dhara                            | The Beech House (gastropub)               | Cote St Albans (French)                                 |
-| L'Italiana                                | Amrit                                 | The Cock Inn (no low budget options)      | Craft & Cleaver (US - Barbecue-style)                   |
-| Locanda Bagutta (closed on Mondays)       | Chili Bar & Kitchen                   | Prime Steak and Grill                     | Tabure (Mediterranean)                                  |
-| Ballacino's                               | Swadisht (closed on Tuesdays)         | The Beehive (pub)                         | Saute (Turkish)                                         |
-| La Cosa Nostra                            | Chez Mumtaj (closed on Mondays)       | White Hart Tap (pub)                      | Wagamama (Asian fusion)                                 |
-|                                           | Samrat                                | The Mermaid (pub)                         | Little Marrakech (Moroccan) closes early on Mondays     |
-|                                           | St Albans Tandoori                    | The White Lion (pub)                      |                                                         |
-|                                           | The Alban                             | Lower Red Lion (pub)                      |                                                         |
-|                                           |                                       | Waterend Barn (Wetherspoons)              |                                                         |
-|                                           |                                       | Peahen (pub)                              |                                                         |
-|                                           |                                       | Blacksmith's Arms (pub)                   |                                                         |
+There are a plethora of restaurants near the city centre catering to all tastes and dietary requirements. More information to follow soon.
 
 ## Local Interest {#Local}
 - Hatfield is just 7 miles from <a href='https://www.enjoystalbans.com/things-to-do/'>St Albans</a>, a historic market town with strong Roman and mediaeval roots. Highlights include St Albans Abbey and the Roman ruins of Verulamium. We plan to arrange transport to St Albans for conference groups to enjoy dinner together. 
