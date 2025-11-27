@@ -6,7 +6,7 @@ header:
   caption: "Credit: © Loren E Held."
 ---
 
-The UKI discs meeting aims to bring together different astrophysical disc communities across the UK & Ireland. We are delighted to announce the third meeting of this series will be hosted at the Department of Applied Mathematics and Theoretical Physics (DAMTP) at the University of Cambridge on 20th-22th July 2026! The theme of the meeting will be _Common processes in disks (winds/jets, planet-disk and planet-star/BH interactions, warps, turbulence/instabilities, and dust) in protoplanetary disks, X-ray binaries, and AGN_, covering observations and theory. The meeting will be held in a hybrid format.
+The UKI discs meeting aims to bring together different astrophysical disc communities across the UK & Ireland. We are delighted to announce the third meeting of this series will be hosted at the Department of Applied Mathematics and Theoretical Physics (DAMTP) at the University of Cambridge on 20th-22th July 2026! The theme of the meeting will be _Common processes in disks (winds/jets, planet-disk and planet-star/BH interactions, warps, turbulence/instabilities, and dust) in protoplanetary disks, X-ray binaries, and AGN_, covering observations and theory. The meeting will be held in a hybrid format. We particularly encourage PhD students and postdocs to apply once registration opens.
 
 The UKI discs meeting aims to bring together different astrophysical disc communities across the UK & Ireland. We also welcome attendees from beyond these isles but numbers on-site will be limited to approximately 100.
 
