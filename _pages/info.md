@@ -2,8 +2,8 @@
 permalink: /info/
 title: "Info"
 header: 
-  image: "/assets/images/Bayfordbury.jpeg"
-  caption: "Credit: Calum Morris."
+  image: "/assets/images/wp7617816-cambridge-university-wallpapers.jpg"
+  caption: "Credit: hergog/wallpapercave.com."
 ---
 
 - [Accommodation](#Accommodation)
