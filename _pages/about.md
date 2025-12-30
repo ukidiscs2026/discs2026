@@ -36,7 +36,7 @@ For any queries, please email [discs2025@herts.ac.uk](mailto:discs2025@herts.ac.
 - Josh Brown (DAMTP, Cambridge)
 
 ## Important Dates
-- Registration and abstract submission opens: December 2025
+- Registration and abstract submission opens: January 2026
 - Abstract submission for talks closes: April 2026 (abstract submission for posters remains open)
 - Outcome of abstract submissions: May 2026
 - Final registration and payment deadline: 31 May 2026
