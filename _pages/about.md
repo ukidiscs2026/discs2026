@@ -23,8 +23,7 @@ For any queries, please email [discs2025@herts.ac.uk](mailto:discs2025@herts.ac.
 - Adam Ingram (Newcastle)
 - Farzana Meru (Warwick)
 - Emma Whelan (Maynooth University, Ireland)
-- TBD
-- TBD
+- Chris Nixon (Leeds)
 
 ## LOC
 - Loren E Held (chair - DAMTP, Cambridge)
