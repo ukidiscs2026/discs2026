@@ -120,8 +120,16 @@ There are a plethora of restaurants near the city centre catering to all tastes 
 ## Local Interest {#Local}
 Coming soon.
 
-## Access to the Swimming Pool and Gym {#Gym}
-Coming soon.
+## Access to Swimming Pool and Gym {#Gym}
+**Gym/Climbing**:
+- Parkside Pool and Gym (located on Parker's Piece, near the city center) [https://www.better.org.uk/leisure-centre/cambridge/parksidepools](https://www.better.org.uk/leisure-centre/cambridge/parksidepools)
+- Kelsey Kerridge Sports Centre (located next to Parker's Piece) [https://kelseykerridge.co.uk/](https://kelseykerridge.co.uk/). _Gym and climbing_.
+- Rainbow Rocket Central Climbing Centre (located next to the central train station) [https://rainbowrocket.cc/](https://rainbowrocket.cc/). _Climbing only_.
+  
+**Swimming**:
+Two public swimming pools (both within walking disatnce of the city center) are:
+- Parkside Pool and Gym (located on Parker's Piece, near the city center) [https://www.better.org.uk/leisure-centre/cambridge/parksidepools](https://www.better.org.uk/leisure-centre/cambridge/parksidepools). _Indoor only_.
+- Jesus Green Lido (located on the river, just north of the city center) [https://jesusgreenlido.org/](https://jesusgreenlido.org/). _Outdoor only_. The UK's longest outdoor swimming pool!
 
 
 
