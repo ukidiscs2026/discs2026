@@ -68,7 +68,7 @@ MR2 itself is located down the stairs immediately opposite the entrance to the C
 ### *Arriving by train*
 Cambridge has two train stations: Cambridge and Cambridge North. We strongly recommend arriving at **Cambridge**, which is located just 4km (2.5 miles) from DAMTP. The station sits on the Great Northern Line, with regular direct services from London Kings Cross, making it easily accessible from central London and surrounding areas.
 
-From Cambridge Station, you can reach the department by bus (£3, 25 minutes) or by taxi/Uber (approximately £8–£12, 10-12 min) minutes):
+From Cambridge Station, you can reach the department by bus (£3, 20-25 minutes) or by taxi/Uber (£8–£12, 10-12 min).
 
 **Bus**: the closest bus stop to the department (DAMTP) is on Madingley Road: the stop is called **Storey's Way** and is located just to the east of the intersection between Storey's Way and Madingley Road. People arriving at Cambridge Station can take the **U1/U2/X3** bus from the station directly to Storey's Way (~26min). Note that most buses to/from the central station arrive/depart just south of the station (turn left after exiting the station). Services run frequently on weekdays, with slightly reduced schedules during evenings and weekends. For live schedules and ticket info, visit the TBD Bus website.
 
