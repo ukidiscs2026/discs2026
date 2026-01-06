@@ -6,16 +6,18 @@ header:
   caption: "Credit: © Loren E Held."
 ---
 
-The UKI discs meeting aims to bring together different astrophysical disc communities across the UK & Ireland. We are delighted to announce the third meeting of this series will be hosted at the Department of Applied Mathematics and Theoretical Physics (DAMTP) at the University of Cambridge on 20th-22th July 2026! The theme of the meeting will be _Common processes in disks (winds/jets, planet-disk and planet-star/BH interactions, warps, turbulence/instabilities, and dust) in protoplanetary disks, X-ray binaries, AGN and disks from binary neutron star mergers_ covering observations and theory. The meeting will be held in a hybrid format. We particularly encourage PhD students and postdocs to apply once registration opens.
+The UK & Ireland Accretion Disks meeting aims to bring together different astrophysical disk communities across the UK & Ireland. We are delighted to announce the third installment of this series will be hosted at the Department of Applied Mathematics and Theoretical Physics (DAMTP) at the University of Cambridge on 20th-22th July 2026! 
 
-The UKI discs meeting aims to bring together different astrophysical disc communities across the UK & Ireland. We also welcome attendees from beyond these isles but numbers on-site will be limited to approximately 100.
+The theme of the meeting will be _Common processes in disks__ Topics will include (but will not be limited to) processes found across several types of disks (protoplanetary disks, X-ray binaries, CVs, AGN, and disks from binary neutron star mergers) such as (i) winds and jets, (ii) planet-disk and star/black hole-disk interactions, (iii) warps and eccentricity, (iv) turbulence and instabilities, (v) dust. 
+
+The key aim of the meeting is to bring together different astrophysical disk communities from across the UK & Ireland, whether they work on accretion disks in low-energy or high-energy contexts. We also welcome attendees from beyond these isles but numbers on-site will be limited to approximately 100.
+
+The meeting will be held in a hybrid format. **We particularly encourage PhD students and postdocs to apply once registration opens.**
 
 For any queries, please email [discs2025@herts.ac.uk](mailto:discs2025@herts.ac.uk).
 
 ## Invited Speakers
-- TBD
-- TBD
-- TBD
+Information coming soon.
 
 ## SOC
 - Loren E Held (chair - DAMTP, Cambridge )
