@@ -127,13 +127,13 @@ Coming soon.
 The city hosts several gyms, pools, and climbing facilities. Below are a few options, most within a short (<20min) walking disance of the city center:
 
 **Gym/Climbing**:
-- Parkside Pool and Gym (located on Parker's Piece, near the city center) [https://www.better.org.uk/leisure-centre/cambridge/parksidepools](https://www.better.org.uk/leisure-centre/cambridge/parksidepools) _Gym and pool_.
-- Kelsey Kerridge Sports Centre (located on Parker's Piece, near the city center) [https://kelseykerridge.co.uk/](https://kelseykerridge.co.uk/). _Gym and climbing_.
-- Rainbow Rocket Central Climbing Centre (located next to the central train station) [https://rainbowrocket.cc/](https://rainbowrocket.cc/). _Climbing only_.
+- _Parkside Pool and Gym_ Located on Parker's Piece, near the city center. [https://www.better.org.uk/leisure-centre/cambridge/parksidepools](https://www.better.org.uk/leisure-centre/cambridge/parksidepools) _Gym and pool_.
+- _Kelsey Kerridge Sports Centre_ Located on Parker's Piece, near the city center. [https://kelseykerridge.co.uk/](https://kelseykerridge.co.uk/). _Gym and climbing_.
+- _Rainbow Rocket Central Climbing Centre_ Located next to the central train station. [https://rainbowrocket.cc/](https://rainbowrocket.cc/). _Climbing only_.
   
 **Swimming**:
-- Parkside Pool and Gym (located on Parker's Piece, near the city center) [https://www.better.org.uk/leisure-centre/cambridge/parksidepools](https://www.better.org.uk/leisure-centre/cambridge/parksidepools). _Indoor only_.
-- Jesus Green Lido (located on the river, just north of the city center) [https://jesusgreenlido.org/](https://jesusgreenlido.org/). _Outdoor only_. The UK's longest outdoor swimming pool!
+- _Parkside Pool and Gym_ Located on Parker's Piece, near the city center. [https://www.better.org.uk/leisure-centre/cambridge/parksidepools](https://www.better.org.uk/leisure-centre/cambridge/parksidepools). _Indoor only_.
+- _Jesus Green Lido_ Located on the river, just north of the city center. [https://jesusgreenlido.org/](https://jesusgreenlido.org/). _Outdoor only_. The UK's longest outdoor swimming pool!
 
 
 
