@@ -128,7 +128,7 @@ The city hosts several gyms, pools, and climbing facilities. Below are a few opt
 
 **Gym/Climbing**:
 - Parkside Pool and Gym (located on Parker's Piece, near the city center) [https://www.better.org.uk/leisure-centre/cambridge/parksidepools](https://www.better.org.uk/leisure-centre/cambridge/parksidepools) _Gym and Pool_.
-- Kelsey Kerridge Sports Centre (located next to Parker's Piece) [https://kelseykerridge.co.uk/](https://kelseykerridge.co.uk/). _Gym and climbing_.
+- Kelsey Kerridge Sports Centre (located on Parker's Piece, near the city center) [https://kelseykerridge.co.uk/](https://kelseykerridge.co.uk/). _Gym and climbing_.
 - Rainbow Rocket Central Climbing Centre (located next to the central train station) [https://rainbowrocket.cc/](https://rainbowrocket.cc/). _Climbing only_.
   
 **Swimming**:
