@@ -51,12 +51,14 @@ There are relatively few budget hotel options in Hatfield this year. The nearby 
 
 ## Campus Map {#Map}
 
-The meeting will take place in Meeting Room (MR2) in Pavilion A (i.e. the _Central Core_) of the Centre for Mathematical Sciences.
+The meeting will take place in **Meeting Room (MR2)** in Pavilion A (i.e. the _Central Core_) of the Centre for Mathematical Sciences.
 There are three ways of accessing the central core (see map):
-(i) from Wilberforce Road, 
-(ii) (recommended if coming from the north) by entering past the Betty and Gordon Moore Library,
-(iii) (recommended if coming from the south) following the footpath and entering through the Faulkes Gatehouse.
-- after you enter the Central Core, the registration desk will be located immediately to the _right_.
+
+- from the entrance on Wilberforce Road, 
+- by walking past the _Betty and Gordon Moore Library_ (recommended if coming from the north), 
+- following the footpath and entering through the _Faulkes Gatehouse_ (recommended if coming from the south).
+
+- After you enter the Central Core, the registration desk will be located immediately to the _right_.
 - MR2 itself is located down the stairs immediately opposite the entrance to the Central Core.
 ![Campus Map](../assets/images/CentreForMathematicalSciencesMAP.png)
 
