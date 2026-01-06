@@ -24,12 +24,12 @@ Attendees are responsible for arranging their own accommodation. **We strongly r
 
 Below are some convenient options located within walking distance of the department:
 
-- Churchill College: (~6min walk) https://www.chu.cam.ac.uk/about/contact/
-- Westminster College: (~12min walk) https://www.westminster.cam.ac.uk/about-us/contact-main
-- Lucy Cavendish College: (~12min walk) https://www.lucy.cam.ac.uk/contact
-- Fitzwilliam College: (~8min walk) https://www.fitz.cam.ac.uk/
-- Robinson College: (~13min walk) https://www.robinson.cam.ac.uk/contact-us
-- Wolfson College: (~30min walk) https://www.wolfson.cam.ac.uk/about/contact-us
+- Churchill College: (~6min walk) [https://www.chu.cam.ac.uk/about/contact/](https://www.chu.cam.ac.uk/about/contact/)
+- Westminster College: (~12min walk) [https://www.westminster.cam.ac.uk/about-us/contact-main](https://www.westminster.cam.ac.uk/about-us/contact-main)
+- Lucy Cavendish College: (~12min walk) [https://www.lucy.cam.ac.uk/contact](https://www.lucy.cam.ac.uk/contact)
+- Fitzwilliam College: (~8min walk) [https://www.fitz.cam.ac.uk/](https://www.fitz.cam.ac.uk/)
+- Robinson College: (~13min walk) [https://www.robinson.cam.ac.uk/contact-us](https://www.robinson.cam.ac.uk/contact-us)
+- Wolfson College: (~30min walk) [https://www.wolfson.cam.ac.uk/about/contact-us](https://www.wolfson.cam.ac.uk/about/contact-us)
 
 Note that the city center (as measured from the Senate House) is also within walking distance (~25min) from DAMTP. 
 
@@ -60,12 +60,16 @@ The Central Core can be accessed from Wilberforce Road, or (recommended) by ente
 
 ## Getting Here {#GettingHere}
 ### *Arriving by train*
-Cambridge has two train stations, Cambridge and Cambridge North. We strongly recommend arriving at **Cambridge**, which is located just 4km (2.5 miles) from DAMTP. The station sits on the Great Northern Line, with regular direct services from London Kings Cross, making it easily accessible from central London and surrounding areas.
+Cambridge has two train stations: Cambridge and Cambridge North. We strongly recommend arriving at **Cambridge**, which is located just 4km (2.5 miles) from DAMTP. The station sits on the Great Northern Line, with regular direct services from London Kings Cross, making it easily accessible from central London and surrounding areas.
 
-From Cambridge Station, you can reach the department by bus (£3, 25 minutes) or by taxi/Uber (approximately £8–£12, 10-12 min) minutes). The closest bus stop to the department (DAMTP) is on Madingley Road: the stop is called **Storey's Way** and is located just to the east of the intersection between Storey's Way and Madingley Road. People arriving at Cambridge Station can take the **U1/U2/X3** bus from the station directly to Storey's Way (~26min). Note that most buses to/from the central station arrive/depart just south of the station (turn left after exiting the station). Services run frequently on weekdays, with slightly reduced schedules during evenings and weekends. For live schedules and ticket info, visit the TBD Bus website.
+From Cambridge Station, you can reach the department by bus (£3, 25 minutes) or by taxi/Uber (approximately £8–£12, 10-12 min) minutes):
+
+**Bus**: the closest bus stop to the department (DAMTP) is on Madingley Road: the stop is called **Storey's Way** and is located just to the east of the intersection between Storey's Way and Madingley Road. People arriving at Cambridge Station can take the **U1/U2/X3** bus from the station directly to Storey's Way (~26min). Note that most buses to/from the central station arrive/depart just south of the station (turn left after exiting the station). Services run frequently on weekdays, with slightly reduced schedules during evenings and weekends. For live schedules and ticket info, visit the TBD Bus website.
+
+**Taxis and Ubers**: there is a taxi-rank located just outside Cambridge station (immediately to the _right_ as you exit the station). A popular taxi service in Cambridge is Panther Taxis [https://www.panthertaxis.co.uk/](https://www.panthertaxis.co.uk/). Uber pick-up points are located in the parking lot just past the taxi-rank.
 
 ### *Arriving by (long-distance) coach*
-You can travel to Cambridge from other parts of the UK by long-distance coach via National Express, which operates services that stop at **Parker's Piece** (near the centre of town) and **Madingley Park and Ride** in west Cambridge. The latter is about a 21min walk from the department.
+You can travel to Cambridge from other parts of the UK by long-distance coach via **National Express** [https://www.nationalexpress.com/en](https://www.nationalexpress.com/en). Services stop at either **Parker's Piece** (near the centre of town) or **Madingley Park and Ride** in west Cambridge depending on the route. The latter is about a 21min walk from the department.
 
 ### *Arriving by car*
 TBD
