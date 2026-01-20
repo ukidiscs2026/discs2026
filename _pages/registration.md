@@ -6,11 +6,11 @@ header:
   caption: "Credit: © Mark Garlick."
 ---
 
-Registration and abstract submission opens in DEC 2025.
+Registration and abstract submission opens in JANUARY 2026.
 
 Final registration and payment deadline: **31 May 2026**
 
-Registration costs **£110 for staff** and **£95 for students**, which includes lunch and coffee breaks on all three days. For those attending remotely, the fee is £10.
+Registration costs **£100 for staff** and **£50 for students**, which includes lunch and coffee breaks on all three days. For those attending remotely, the fee is £10.
 
 The meeting spans three days of traditional conference-style talks and discussion sessions. The Scientific Organising Committee (SOC) will select talks to reflect a broad range of topics, with a substantial proportion allocated to early-career researchers. This is a hybrid event, aimed at increasing accessibility for those unable to attend in person. While most talks will be presented on-site, a limited number of remote presentations will be considered upon request. We aim to ensure that everyone who submits an abstract has the opportunity to present—either as a talk or a poster.
 
