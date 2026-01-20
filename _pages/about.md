@@ -14,7 +14,7 @@ The key aim of the meeting is to bring together different astrophysical disk com
 
 The meeting will be held in a hybrid format. **We particularly encourage PhD students and postdocs to apply once registration opens.**
 
-For any queries, please email [discs2025@herts.ac.uk](mailto:discs2025@herts.ac.uk).
+For any queries, please email [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukidiscs2026@lists.cam.ac.uk).
 
 ## Invited Speakers
 Information coming soon.
