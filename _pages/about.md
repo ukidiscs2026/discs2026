@@ -66,6 +66,6 @@ This meeting will be a harassment-free environment for everyone, regardless of g
 
 - Participants asked to stop any harassing behaviour are expected to comply immediately. Attendees violating these rules may be asked to leave the event, without a refund of any charge.
 
-If someone wishes to report a breach of this code of conduct with regards to this meeting, then they should contact any of the LOC in person or by email (including anonymously) to [soc-ukidiscs2026@lists.cam.ac.uk](soc-ukidiscs2026@lists.cam.ac.uk)
+If someone wishes to report a breach of this code of conduct with regards to this meeting, then they should contact any of the LOC in person or by email (including anonymously) to [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukidiscs2026@lists.cam.ac.uk).
 
 
