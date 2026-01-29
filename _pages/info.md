@@ -123,13 +123,14 @@ There are a plethora of restaurants near the city centre catering to all tastes 
 ## Local Interest {#Local}
 Coming soon.
 
-## Access to Swimming Pool and Gym {#Gym}
+## Access to Swimming Pools and Gyms {#Gym}
 The city hosts several gyms, pools, and climbing facilities. Below are a few options, most within a short (<20min) walking disance of the city center:
 
 **Gym/Climbing**:
 - _Parkside Pool and Gym_ Located on Parker's Piece, near the city center. [https://www.better.org.uk/leisure-centre/cambridge/parksidepools](https://www.better.org.uk/leisure-centre/cambridge/parksidepools) _Gym and pool_.
 - _Kelsey Kerridge Sports Centre_ Located on Parker's Piece, near the city center. [https://kelseykerridge.co.uk/](https://kelseykerridge.co.uk/). _Gym and climbing_.
 - _Rainbow Rocket Central Climbing Centre_ Located next to the central train station. [https://rainbowrocket.cc/](https://rainbowrocket.cc/). _Climbing only_.
+- _Rainbow Rocket North Climbing Centre_ Located in the north-east of the city, south of Cambridge North Train Station. [https://rainbowrocket.cc/](https://rainbowrocket.cc/). _Newly opened. Climbing only_.
   
 **Swimming**:
 - _Parkside Pool and Gym_ Located on Parker's Piece, near the city center. [https://www.better.org.uk/leisure-centre/cambridge/parksidepools](https://www.better.org.uk/leisure-centre/cambridge/parksidepools). _Indoor only_.
