@@ -70,7 +70,7 @@ Cambridge has two train stations: Cambridge and Cambridge North. We strongly rec
 
 From Cambridge Station, you can reach the department by bus (£3, 20-25 minutes) or by taxi/Uber (£8–£12, 10-12 min).
 
-**Bus**: the closest bus stop to the department (DAMTP) is on Madingley Road: the stop is called **Storey's Way** and is located just to the east of the intersection between Storey's Way and Madingley Road. People arriving at Cambridge Station can take the **U1/U2/X3** bus from the station directly to Storey's Way (~26min). Note that most buses to/from the central station arrive/depart just south of the station (turn left after exiting the station). Services run frequently on weekdays, with slightly reduced schedules during evenings and weekends. For live schedules and ticket info, visit the TBD Bus website.
+**Bus**: the closest bus stop to the department (DAMTP) is on Madingley Road: the stop is called **Storey's Way** and is located just to the east of the intersection between Storey's Way and Madingley Road. People arriving at Cambridge Station can take the **U1/U2/X3** bus from the station directly to Storey's Way (~26min). Note that most buses to/from the central station arrive/depart just south of the station (turn left after exiting the station). Services run frequently on weekdays, with slightly reduced schedules during evenings and weekends. For live schedules and ticket info, visit [https://www.whippetbus.co.uk/times/universal/u1/](https://www.whippetbus.co.uk/times/universal/u1/).
 
 **Taxis and Ubers**: there is a taxi-rank located just outside Cambridge station (immediately to the _right_ as you exit the station). A popular taxi service in Cambridge is Panther Taxis [https://www.panthertaxis.co.uk/](https://www.panthertaxis.co.uk/). Uber pick-up points are located in the parking lot just past the taxi-rank.
 
@@ -78,7 +78,7 @@ From Cambridge Station, you can reach the department by bus (£3, 20-25 minutes)
 You can travel to Cambridge from other parts of the UK by long-distance coach via **National Express** [https://www.nationalexpress.com/en](https://www.nationalexpress.com/en). Services stop at either **Parker's Piece** (near the centre of town) or **Madingley Park and Ride** in west Cambridge depending on the route. The latter is about a 21min walk from the department.
 
 ### *Arriving by car*
-TBD
+Informing coming soon.
 
 <!--For those wishing to park at the de Havilland campus, there is a large open air car park that you'll come into as you drive on to campus. It's marked **DH1** on the map here: [https://www.herts.ac.uk/__data/assets/pdf_file/0003/66774/campus-parking.pdf](https://www.herts.ac.uk/__data/assets/pdf_file/0003/66774/campus-parking.pdf)
 
@@ -102,9 +102,9 @@ Cambridge is relatively easy to reach from several London airports via public tr
       Train: take direct train from Gatwick through London to Cambridge.
 - From **Heathrow Airport**:
       Train: take Piccadilly Underground line to King's Cross. Take train from King's Cross to Cambridge.
-      Bus: take National Express from Heathrow Airport Terminal 5 to Parkers Piece, Cambridge.
+      Bus: take National Express from Heathrow Airport Terminal 5 to Parker's Piece, Cambridge.
 - From **Luton Airport**: 
-      Bus (recommended: take National Express from Luton to Cambridge Parkers Piece.
+      Bus (recommended): take National Express from Luton to Cambridge Parker's Piece.
 
 These routes offer convenient and cost-effective options for reaching Cambridge from London’s major airports.
 
