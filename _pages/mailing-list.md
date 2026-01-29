@@ -11,5 +11,4 @@ Want to know about the latest events, learning opportunities, and upcoming job p
 
 [Mailing list signup](https://warwick.ac.uk/fac/sci/physics/research/astro/research/discs/uki-discs/){:target="_blank"}
 
-**Note**: This mailing list is for the UK&I Discs community, only. It is **separate** from the conference mailing list: [soc-ukidiscs2026@lists.cam.ac.uk](soc-ukidiscs2026@lists.cam.ac.uk)
-
+**Note**: This mailing list is for the UK&I Discs community, only. It is **separate** from the conference mailing list: [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukidiscs2026@lists.cam.ac.uk).
