@@ -6,13 +6,13 @@ header:
   caption: "Credit: © Loren E Held."
 ---
 
-The UK & Ireland Accretion Disks meeting aims to bring together different astrophysical disk communities across the UK & Ireland and beyond. We are delighted to announce the third installment of this series will be hosted at the Department of Applied Mathematics and Theoretical Physics (DAMTP) at the University of Cambridge from **20th-22th July 2026**! 
+The UK & Ireland Accretion Disks meeting aims to bring together different astrophysical disk communities across the UK & Ireland and beyond. We are delighted to announce the third installment of this series will be hosted at the Department of Applied Mathematics and Theoretical Physics (DAMTP) at the University of Cambridge from **Monday July 20 - Wednesday July 2026**! 
 
 The theme of the meeting will be _Common Processes in Disks_. Topics will include (but will not be limited to) processes found across several types of disks (protoplanetary disks, X-ray binaries, CVs, AGN, and disks from binary neutron star mergers) such as (i) winds and jets, (ii) planet-disk and star/black hole-disk interactions, (iii) distorted disks (including warped and eccentric disks, tidally distorted disks, and flybys), (iv) turbulence and instabilities, (v) dust. Both observers and theorists are welcome.
 
 The key aim of the meeting is to bring together different astrophysical disk communities from across the UK & Ireland, whether they work on accretion disks in low-energy or high-energy contexts. We also welcome attendees from beyond these isles but numbers on-site will be limited to approximately 100.
 
-The meeting will be held in a hybrid format. **We particularly encourage PhD students and postdocs to apply once registration opens.**
+The meeting will be held in a hybrid format. **We particularly encourage PhD students and postdocs to apply once registration opens.** This is a fantastic opportunity to present your research to a friendly audience of peers and experts in the field, all against the beautiful backdrop of Cambridge, one of the world's most historic university towns. The cross-discipline nature of the conference will provide a unique networking opportunity for those who work in one area of accretion disks, but who might be considering moving to a different area for future work.
 
 For any queries, please email [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukidiscs2026@lists.cam.ac.uk).
 
