@@ -21,12 +21,11 @@ LINK COMING SOON
 **Payment will open soon**
 
 Final registration and payment deadline: **31 May 2026**
+
+
 <!--[- https://herts.configio.com/pd/2521/uk-ireland-discs-conference-2025 ]: #
-
-
-<!--i) **Shopping Basket Selection**  
+i) **Shopping Basket Selection**  
 You can select items for purchase (Registration Fee, Accommodation if wanted) one at a time and add each to your shopping basket before paying.
 
 ii) **Guest Checkout**  
-When you go to checkout, if you do it as a *Guest* rather than creating an account, please **tick the box** to allow your name and email to be retained so that we know you have paid.
--->
+When you go to checkout, if you do it as a *Guest* rather than creating an account, please **tick the box** to allow your name and email to be retained so that we know you have paid.-->
