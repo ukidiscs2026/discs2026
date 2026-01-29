@@ -22,7 +22,7 @@ For any queries, please email [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukid
 Information coming soon.
 
 ## SOC
-- Loren E Held (chair - DAMTP, Cambridge )
+- Loren E. Held (chair - DAMTP, Cambridge )
 - Thomas Jannaud (co-chair - DAMTP, Cambridge)
 - Adam Ingram (Newcastle)
 - Farzana Meru (Warwick)
@@ -30,7 +30,7 @@ Information coming soon.
 - Chris Nixon (Leeds)
 
 ## LOC
-- Loren E Held (chair - DAMTP, Cambridge)
+- Loren E. Held (chair - DAMTP, Cambridge)
 - Thomas Jannaud (co-chair - DAMTP, Cambridge)
 - Gordon Ogilvie (DAMTP, Cambridge)
 - Henrik Latter (DAMTP, Cambridge)
