@@ -22,7 +22,7 @@ If you experience any issues with registation please email [soc-ukidiscs2026@lis
 
 **Payment will open soon**
 
-Final registration and payment deadline: **31 May 2026**
+Final registration and payment deadline: **Friday May 29 2026**
 
 
 <!--[- https://herts.configio.com/pd/2521/uk-ireland-discs-conference-2025 ]: #
