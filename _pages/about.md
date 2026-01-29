@@ -6,9 +6,9 @@ header:
   caption: "Credit: © Loren E Held."
 ---
 
-The UK & Ireland Accretion Disks meeting aims to bring together different astrophysical disk communities across the UK & Ireland. We are delighted to announce the third installment of this series will be hosted at the Department of Applied Mathematics and Theoretical Physics (DAMTP) at the University of Cambridge on 20th-22th July 2026! 
+The UK & Ireland Accretion Disks meeting aims to bring together different astrophysical disk communities across the UK & Ireland and beyond. We are delighted to announce the third installment of this series will be hosted at the Department of Applied Mathematics and Theoretical Physics (DAMTP) at the University of Cambridge from **20th-22th July 2026**! 
 
-The theme of the meeting will be _Common Processes in Disks_ Topics will include (but will not be limited to) processes found across several types of disks (protoplanetary disks, X-ray binaries, CVs, AGN, and disks from binary neutron star mergers) such as (i) winds and jets, (ii) planet-disk and star/black hole-disk interactions, (iii) warps and eccentricity, (iv) turbulence and instabilities, (v) dust. Both observers and theorists are welcome.
+The theme of the meeting will be _Common Processes in Disks_. Topics will include (but will not be limited to) processes found across several types of disks (protoplanetary disks, X-ray binaries, CVs, AGN, and disks from binary neutron star mergers) such as (i) winds and jets, (ii) planet-disk and star/black hole-disk interactions, (iii) distorted disks (including warped and eccentric disks, tidally distorted disks, and flybys), (iv) turbulence and instabilities, (v) dust. Both observers and theorists are welcome.
 
 The key aim of the meeting is to bring together different astrophysical disk communities from across the UK & Ireland, whether they work on accretion disks in low-energy or high-energy contexts. We also welcome attendees from beyond these isles but numbers on-site will be limited to approximately 100.
 
@@ -38,11 +38,11 @@ Information coming soon.
 - Josh Brown (DAMTP, Cambridge)
 
 ## Important Dates
-- Registration and abstract submission opens: January 2026
-- Abstract submission for talks closes: April 2026 (abstract submission for posters remains open)
-- Outcome of abstract submissions: May 2026
-- Final registration and payment deadline: 31 May 2026
-- Meeting: 20th July - 22nd July
+- Registration and abstract submission opens: **Thursday January 29 2026**
+- Abstract submission for talks closes:       **Friday April 3 2026** (abstract submission for posters remains open)
+- Outcome of abstract submissions:            **May 2026**
+- Final registration and payment deadline:    **Friday May 29 2026**
+- Meeting:                                    **Monday July 20 - Wednesday July 22 2026**
 
 ## Code of Conduct 
 
