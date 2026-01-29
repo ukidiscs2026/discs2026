@@ -14,9 +14,12 @@ The meeting spans three days of traditional conference-style talks and discussio
 <!--We aim to ensure that everyone who submits an abstract has the opportunity to present—either as a talk or a poster.-->
 
 **Registration and abstract submission is now open!**
+
+LINK COMING SOON
 <!-- **[Register Here](https://forms.office.com/e/0HZE3ZiUZx)**   -->
 
 **Payment will open soon**
+
 Final registration and payment deadline: **31 May 2026**
 <!--[- https://herts.configio.com/pd/2521/uk-ireland-discs-conference-2025 ]: #
 
