@@ -14,7 +14,7 @@ The theme of the meeting will be _Common Processes in Disks_. Topics will includ
 
 The key aim of the meeting is to bring together different astrophysical disk communities from across the UK & Ireland, whether they work on accretion disks in low-energy or high-energy contexts. We also welcome attendees from beyond these isles but numbers on-site will be limited to approximately 100.
 
-The meeting will be held in a hybrid format. **We particularly encourage PhD students and postdocs to apply once registration opens.** This is a fantastic opportunity to present your research to a friendly audience of peers and experts in the field, all against the beautiful backdrop of Cambridge, one of the world's most historic university towns. The cross-discipline nature of the conference will provide a unique networking opportunity for those who work in one area of accretion disks, but who might be considering moving to a different area for future work.
+The meeting will be held in a hybrid format. **We particularly encourage PhD students and postdocs to apply.** This is a fantastic opportunity to present your research to a friendly audience of peers and experts in the field, all against the beautiful backdrop of Cambridge, one of the world's most historic university towns. The cross-discipline nature of the conference will provide a unique networking opportunity for those who work in one area of accretion disks, but who might be considering moving to a different area for future work.
 
 For any queries, please email [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukidiscs2026@lists.cam.ac.uk).
 
