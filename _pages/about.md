@@ -6,7 +6,7 @@ header:
   caption: "Credit: © Loren E Held."
 ---
 
-<p style="color: red;">Registration and abstract submission are now open!</p>
+<p style="color: blue;">Registration and abstract submission are now open!</p>
 
 The UK & Ireland Accretion Disks meeting aims to bring together different astrophysical disk communities across the UK & Ireland and beyond. We are delighted to announce the third installment of this series will be hosted at the Department of Applied Mathematics and Theoretical Physics (DAMTP) at the University of Cambridge from **Monday July 20 - Wednesday July 22 2026**! 
 
