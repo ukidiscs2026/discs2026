@@ -16,6 +16,8 @@ The meeting spans three days of traditional conference-style talks and discussio
 **Registration and abstract submission is now open!**
 
 LINK COMING SOON
+If you experience any issues with registation please email [soc-ukidiscs2026@lists.cam.ac.uk](soc-ukidiscs2026@lists.cam.ac.uk)
+
 <!-- **[Register Here](https://forms.office.com/e/0HZE3ZiUZx)**   -->
 
 **Payment will open soon**
