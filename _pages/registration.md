@@ -13,7 +13,7 @@ The meeting spans three days of traditional conference-style talks and discussio
 
 <!--We aim to ensure that everyone who submits an abstract has the opportunity to present—either as a talk or a poster.-->
 
-[**Registration and abstract submission is now open!**](https://ukidiscs2026.github.io/discs2026/register/)
+**Registration and abstract submission is now open!**
 
 [Click here to register](https://docs.google.com/forms/d/e/1FAIpQLScdi6NYGSHmLzwwUD-tqU2xMl-IY0tvALhpYKZXbDN9oEOXVQ/viewform)
 
