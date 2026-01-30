@@ -40,7 +40,7 @@ Information coming soon.
 - Josh Brown (DAMTP, Cambridge)
 
 ## Important Dates
-- Registration and abstract submission opens: **Thursday January 29 2026**
+- Registration and abstract submission opens: **Friday January 30 2026**
 - Abstract submission for talks closes:       **Friday April 3 2026** (abstract submission for posters remains open)
 - Outcome of abstract submissions:            **May 2026**
 - Final registration and payment deadline:    **Friday May 29 2026**
