@@ -17,7 +17,7 @@ The meeting spans three days of traditional conference-style talks and discussio
 
 [Click here to register](https://docs.google.com/forms/d/e/1FAIpQLScdi6NYGSHmLzwwUD-tqU2xMl-IY0tvALhpYKZXbDN9oEOXVQ/viewform)
 
-If you experience any issues with registation please email [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukidiscs2026@lists.cam.ac.uk).
+If you experience any issues with registration please email [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukidiscs2026@lists.cam.ac.uk).
 
 <!-- **[Register Here](https://forms.office.com/e/0HZE3ZiUZx)**   -->
 
