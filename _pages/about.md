@@ -19,7 +19,8 @@ The meeting will be held in a hybrid format. **We particularly encourage PhD stu
 For any queries, please email [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukidiscs2026@lists.cam.ac.uk).
 
 ## Invited Speakers
-Information coming soon.
+Alison Young (Leeds)
+(rest TBC soon)
 
 ## SOC
 - Loren E. Held (chair - DAMTP, Cambridge )
