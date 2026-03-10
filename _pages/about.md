@@ -20,6 +20,7 @@ For any queries, please email [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukid
 
 ## Invited Speakers
 - Alison Young (Leeds)
+- Christian Knigge (Southampton)
 - TBD
 
 ## SOC
