@@ -19,10 +19,12 @@ The meeting will be held in a hybrid format. **We particularly encourage PhD stu
 For any queries, please email [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukidiscs2026@lists.cam.ac.uk).
 
 ## Invited Speakers
-- Alison Young (Leeds)
-- Christian Knigge (Southampton)
-- Rebeca Garcia Lopez (University College Dublin)
-- TBD
+- Alison Young (Leeds) -- warps & flybys
+- Christian Knigge (Southampton) -- jets (high energy systems)
+- Rebeca Garcia Lopez (University College Dublin) -- jets (low energy systems)
+- TBD (dynamical interactions in AGN disks)
+- TBD (planet-disk interactions in protoplanetary disks)
+- TBD (turbulence/instabilities)
 
 ## SOC
 - Loren E. Held (chair - DAMTP, Cambridge )
