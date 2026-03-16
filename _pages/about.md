@@ -20,11 +20,11 @@ For any queries, please email [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukid
 
 ## Invited Speakers
 - Alison Young (Leeds) -- warps & flybys
-- Christian Knigge (Southampton) -- jets (high energy systems)
-- Rebeca Garcia Lopez (University College Dublin) -- jets (low energy systems)
+- Christian Knigge (Southampton) -- jets and winds (X-ray binaries, CVs, AGN)
+- Rebeca Garcia Lopez (University College Dublin) -- jet and winds (protoplanetary disks)
 - TBD (dynamical interactions in AGN disks)
 - TBD (planet-disk interactions in protoplanetary disks)
-- Henrik Latter (DAMTP, University of Cambridge) (turbulence/instabilities)
+- Henrik Latter (DAMTP, University of Cambridge) (turbulence/instabilities in disks)
 
 ## SOC
 - Loren E. Held (chair - DAMTP, Cambridge )
