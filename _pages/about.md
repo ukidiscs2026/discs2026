@@ -24,7 +24,7 @@ For any queries, please email [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukid
 - Rebeca Garcia Lopez (University College Dublin) -- jets (low energy systems)
 - TBD (dynamical interactions in AGN disks)
 - TBD (planet-disk interactions in protoplanetary disks)
-- TBD (turbulence/instabilities)
+- Henrik Latter (DAMTP, University of Cambridge) (turbulence/instabilities)
 
 ## SOC
 - Loren E. Held (chair - DAMTP, Cambridge )
