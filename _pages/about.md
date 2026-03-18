@@ -75,4 +75,4 @@ If someone wishes to report a breach of this code of conduct with regards to thi
 
 ## Funding
 We gratefully acknowledge funding in the form of a grant from the Royal Astronomical Society.
-![Funding](../assets/images/royal-astronomical-society-2299453a-b794-485a-8d69-4719a6429fb-resize-750.jpg)
+![Funding](../assets/images/RASLogoNew)
