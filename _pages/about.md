@@ -2,7 +2,7 @@
 permalink: /
 title: "About"
 header: 
-  image: "/assets/images/BHEmbeddedInAGNDiskWithJet_LorenEHeld.png"
+  image: "/assets/images/BHEmbeddedInAGNDiskWithJetSmall_LorenEHeld.png"
   caption: "Credit: © Loren E Held."
 ---
 
