@@ -23,8 +23,8 @@ For any queries, please email [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukid
 - Christian Knigge (Southampton) -- jets and winds (X-ray binaries, CVs, AGN)
 - Rebeca Garcia Lopez (University College Dublin) -- jets and winds (protoplanetary disks)
 - TBD (dynamical interactions in AGN disks)
-- TBD (planet-disk interactions in protoplanetary disks)
-- Henrik Latter (DAMTP, University of Cambridge) (turbulence/instabilities in disks)
+- Richard Alexander (University of Leicester) -- planet-disk interactions
+- Henrik Latter (DAMTP, University of Cambridge) - turbulence/instabilities in disks
 
 ## SOC
 - Loren E. Held (chair - DAMTP, Cambridge )
