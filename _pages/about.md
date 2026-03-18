@@ -73,4 +73,6 @@ This meeting will be a harassment-free environment for everyone, regardless of g
 
 If someone wishes to report a breach of this code of conduct with regards to this meeting, then they should contact any of the LOC in person or by email (including anonymously) to [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukidiscs2026@lists.cam.ac.uk).
 
-
+## Funding
+We kindly acknowledge funding in the form of a grant from the Royal Astronomical Society.
+image: "/assets/images/royal-astronomical-society-2299453a-b794-485a-8d69-4719a6429fb-resize-750.jpg"
