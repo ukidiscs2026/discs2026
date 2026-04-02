@@ -34,8 +34,7 @@ For any queries, please email [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukid
 - Chris Nixon (Leeds)
 
 ## LOC
-- Loren E. Held (chair - DAMTP, Cambridge)
-- Thomas Jannaud (co-chair - DAMTP, Cambridge)
+- Loren E. Held & Thomas Jannaur (chairs, DAMTP, Cambridge)
 - Gordon Ogilvie (DAMTP, Cambridge)
 - Henrik Latter (DAMTP, Cambridge)
 - Roman Rafikov (DAMTP, Cambridge)
