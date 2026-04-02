@@ -27,7 +27,7 @@ For any queries, please email [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukid
 - Henrik Latter (DAMTP, University of Cambridge) - turbulence/instabilities in disks
 
 ## SOC
-- Loren E. Held and Thomas Jannaud (chairs, DAMTP, University of Cambridge
+- Loren E. Held and Thomas Jannaud (chairs, DAMTP, Cambridge)
 - Adam Ingram (Newcastle)
 - Farzana Meru (Warwick)
 - Emma Whelan (Maynooth University, Ireland)
