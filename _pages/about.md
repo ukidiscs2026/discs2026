@@ -44,7 +44,7 @@ For any queries, please email [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukid
 
 ## Important Dates
 - Registration and abstract submission opens: **Friday January 30 2026**
-- Abstract submission for talks closes:       **Friday April 3 2026** <span style="color: #e74c3c;">(**Update: deadline extended due to Easter weekend**)</span>
+- Abstract submission for talks closes:       **~~Friday April 3 2026~~** <span style="color: #e74c3c;">(**Update: deadline extended due to Easter weekend.**)</span>
 - Outcome of abstract submissions:            **May 2026**
 - Final registration and payment deadline:    **Friday May 29 2026**
 - Meeting:                                    **Monday July 20 - Wednesday July 22 2026**
