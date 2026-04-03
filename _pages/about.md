@@ -22,7 +22,7 @@ For any queries, please email [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukid
 - Alison Young (Leeds) -- warps & flybys
 - Christian Knigge (Southampton) -- jets and winds (X-ray binaries, CVs, AGN)
 - Rebeca Garcia Lopez (University College Dublin) -- jets and winds (protoplanetary disks)
-- TBD (dynamical interactions in AGN disks)
+- Martin Pessah (Niels Bohr Institute) -- dynamical interactions in AGN disks
 - Richard Alexander (University of Leicester) -- planet-disk interactions in protoplanetary disks
 - Henrik Latter (DAMTP, University of Cambridge) - turbulence/instabilities in disks
 
@@ -44,7 +44,7 @@ For any queries, please email [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukid
 
 ## Important Dates
 - Registration and abstract submission opens: **Friday January 30 2026**
-- Abstract submission for talks closes:       **Friday April 3 2026** (abstract submission for posters remains open)
+- Abstract submission for talks closes:       **~Friday April 3 2026Z~** (**note: deadline extended due to Easter weekend**)
 - Outcome of abstract submissions:            **May 2026**
 - Final registration and payment deadline:    **Friday May 29 2026**
 - Meeting:                                    **Monday July 20 - Wednesday July 22 2026**
