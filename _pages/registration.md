@@ -6,7 +6,7 @@ header:
   caption: "Credit: © Mark Garlick."
 ---
 Abstract submission for talks closes **Friday April 3 2026** 
-<span style="color: #e74c3c;">aUpdate: abstract submission deadline extended due to Easter.</span>
+<span style="color: #e74c3c;">Update: abstract submission deadline extended due to Easter.</span>
 
 There will be a modest conference fee for those attending in-person (exact amount will be fixed later, but will be around GBP100, with a discount for students). The fee includes lunch and coffee breaks on all three days.
 
