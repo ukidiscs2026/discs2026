@@ -5,8 +5,8 @@ header:
   image: "/assets/images/HD98800_Mark_Garlick.png"
   caption: "Credit: © Mark Garlick."
 ---
-Abstract submission for talks closes **~~Friday April 3 2026~~** 
-<span style="color: #e74c3c;">Update: abstract submission deadline extended due to Easter. Feel free to submit an abstract!</span>
+
+<span style="color: #e74c3c;">Abstract submission for talks is now closed. Registration and poster submission remain open.</span>
 
 There will be a modest conference fee for those attending in-person (exact amount will be fixed later, but will be around GBP100, with a discount for students). The fee includes lunch and coffee breaks on all three days.
 
@@ -14,7 +14,7 @@ The meeting spans three days of traditional conference-style talks and discussio
 
 <!--We aim to ensure that everyone who submits an abstract has the opportunity to present—either as a talk or a poster.-->
 
-**Registration and abstract submission is now open!**
+**Registration and poster submissions still open!**
 
 [Click here to register](https://docs.google.com/forms/d/e/1FAIpQLScdi6NYGSHmLzwwUD-tqU2xMl-IY0tvALhpYKZXbDN9oEOXVQ/viewform)
 
