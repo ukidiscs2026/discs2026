@@ -6,7 +6,7 @@ header:
   caption: "Credit: © Loren E Held."
 ---
 
-[Registration and abstract submission are now open!](https://ukidiscs2026.github.io/discs2026/register/)
+[Abstract submission is now closed. Registration (and poster submissions) remain open](https://ukidiscs2026.github.io/discs2026/register/)
 
 The UK & Ireland Accretion Disks meeting aims to bring together different astrophysical disk communities across the UK & Ireland and beyond. We are delighted to announce the third installment of this series will be hosted at the Department of Applied Mathematics and Theoretical Physics (DAMTP) at the University of Cambridge from **Monday July 20 - Wednesday July 22 2026**! 
 
@@ -44,7 +44,7 @@ For any queries, please email [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukid
 
 ## Important Dates
 - Registration and abstract submission opens: **Friday January 30 2026**
-- Abstract submission for talks closes:       **~~Friday April 3 2026~~** <span style="color: #e74c3c;">(**Update: deadline extended due to Easter. Abstract submission still open.**)</span>
+- Abstract submission for talks closes:       **Friday April 3 2026** <span style="color: #e74c3c;">(Abstract submission now closed. Registration and poster submission remain open.)</span>
 - Outcome of abstract submissions:            **May 2026**
 - Final registration and payment deadline:    **Friday May 29 2026**
 - Meeting:                                    **Monday July 20 - Wednesday July 22 2026**
