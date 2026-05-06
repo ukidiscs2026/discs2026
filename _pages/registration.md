@@ -24,7 +24,7 @@ If you experience any issues with registration please email [soc-ukidiscs2026@li
 
 <!-- **[Register Here](https://forms.office.com/e/0HZE3ZiUZx)**   -->
 
-**Payment will open on Friday May 8 2026**
+**Payment will open soon**
 
 Final registration and payment deadline: **Friday May 29 2026**
 
