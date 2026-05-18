@@ -110,5 +110,5 @@ Registered attendees (subject to change):
 - Luyao	Zhang	(University of Leicester)
 - Mathéo Zjawiony	(IPAG)
 
-Last updated: Jan 2026.
+Last updated: May 2026.
 
