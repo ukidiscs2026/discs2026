@@ -10,7 +10,7 @@ header:
 
 <span style="color: #e74c3c;">The SOC are finalizing requests for talks. If you requested a talk, we will announce our decision by **Friday May 8 2026**.</span>
 
-There will be a modest conference fee for those attending in-person (exact amount will be fixed later, but will be around GBP100, with a discount for students). The fee includes lunch and coffee breaks on all three days.
+There will be a modest conference fee for those attending in-person (GBP100 for non-students and GBP75 for students). The fee includes lunch and coffee breaks on all three days.
 
 The meeting spans three days of traditional conference-style talks and discussion sessions. The Scientific Organising Committee (SOC) will select talks to reflect a broad range of topics, with a substantial proportion allocated to early-career researchers. This is a hybrid event, aimed at increasing accessibility for those unable to attend in person. While most talks will be presented on-site, a limited number of remote presentations will be considered upon request. 
 
