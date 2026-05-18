@@ -30,7 +30,6 @@ Registered attendees (subject to change):
 - Prasun Dhang	(DAMTP, University of Cambridge)
 - Michael Elston	(University of Canterbury)
 - Callum Fairbairn	(Institute for Advanced Study)
-- Iván Gallardo Cava	(Observatorio Astronómico Nacional (OAN-IGN))
 - Rebeca Garcia Lopez	(UCD)
 - Juan Garrido-Deutelmoser	(University of Arizona)
 - Olcay Ates Goksu	(McMaster University)
