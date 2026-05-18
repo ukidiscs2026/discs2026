@@ -11,7 +11,7 @@ Registered attendees (subject to change):
 - Ricard Aguilera Miret	(University of Hamburg)
 - Deniz	Akansoy	(DAMTP, University of Cambridge)
 - Felipe Alarcón	(Università degli Studi di Milano)
-- Richard Alexander	(University of Leicester(
+- Richard Alexander	(University of Leicester)
 - Khusan Alibekov	(The University of Southampton, UK)
 - Uzay Aydın	(Erciyes University)
 - Naman Bajaj	(Lunar and Planetary Laboratory, The University of Arizona)
