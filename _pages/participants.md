@@ -1,4 +1,4 @@
-li---
+---
 permalink: /participants/
 title: "Participants"
 header:
