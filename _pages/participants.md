@@ -1,4 +1,4 @@
----
+li---
 permalink: /participants/
 title: "Participants"
 header:
@@ -53,7 +53,7 @@ Registered attendees (subject to change):
 - Hans Lee (University of Leicester)
 - Cat	Leedham	(Institute of Astronomy, University of Cambridge)
 - Yuqi Li	(Cambridge IoA)
-- Qiong Liu	(Guizhou University(
+- Qiong Liu	(Guizhou University)
 - Cristiano	Longarini	(Institute of Astronomy, University of Cambridge)
 - Josh Lovell	(Center for Astrophysics, Harvard and Smithsonian)
 - Srinivas M Rao Aryabhatta (Research Institute of Observational Sciences (ARIES), Nainital, India)
