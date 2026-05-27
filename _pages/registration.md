@@ -26,7 +26,7 @@ If you experience any issues with registration please email [soc-ukidiscs2026@li
 
 **<span style="color: #e74c3c;">(We are waiting for the University to set up the payment system. The deadline will be extended accordingly. We will notify participants once the payment system has been set up.)</span>**
 
-Final registration and payment deadline: **Friday May 29 2026 (to be extended)**
+Final registration and payment deadline: TBC
 
 
 <!--[- https://herts.configio.com/pd/2521/uk-ireland-discs-conference-2025 ]: #
