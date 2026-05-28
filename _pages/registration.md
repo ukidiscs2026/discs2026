@@ -8,7 +8,7 @@ header:
 
 **Registration and abstract submission**
 
-<span style="color: #e74c3c;">Abstract submission for talks is now closed. Registration and poster submission remain open.</span>
+<span style="color: #e74c3c;">Abstract submission for talks is now closed. Registration and poster submission remain open!</span>
 
 <!--<span style="color: #e74c3c;">The SOC are finalizing requests for talks. If you requested a talk, we will announce our decision by **Friday May 8 2026**.</span> -->
 
@@ -17,8 +17,6 @@ There will be a modest conference fee for those attending in-person (GBP100 for 
 The meeting spans three days of traditional conference-style talks and discussion sessions. The Scientific Organising Committee (SOC) will select talks to reflect a broad range of topics, with a substantial proportion allocated to early-career researchers. This is a hybrid event, aimed at increasing accessibility for those unable to attend in person. While most talks will be presented on-site, a limited number of remote presentations will be considered upon request. 
 
 <!--We aim to ensure that everyone who submits an abstract has the opportunity to present—either as a talk or a poster.-->
-
-**Registration and poster submissions still open!**
 
 [Click here to register](https://docs.google.com/forms/d/e/1FAIpQLScdi6NYGSHmLzwwUD-tqU2xMl-IY0tvALhpYKZXbDN9oEOXVQ/viewform)
 
