@@ -35,7 +35,7 @@ If you experience any issues with registration please email [soc-ukidiscs2026@li
 
 (The conference dinner will be held at a Cambridge College. More information coming soon.)
 
-<span style="color: #e74c3c;">(The deadline for payment is Friday, June 5, 2026. We are waiting for the University to set up the payment system.  We will notify participants once the payment system has been set up.)</span>
+<span style="color: #e74c3c;">The deadline for payment is Friday, June 5, 2026. We are waiting for the University to set up the payment system.  We will notify participants once the payment system has been set up.</span>
 
 <!--[- https://herts.configio.com/pd/2521/uk-ireland-discs-conference-2025 ]: #
 i) **Shopping Basket Selection**  
