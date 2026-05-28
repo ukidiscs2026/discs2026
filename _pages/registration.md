@@ -29,9 +29,9 @@ If you experience any issues with registration please email [soc-ukidiscs2026@li
 
 **Payment**
 
-Registration fee [students]: GBP75
-Registration fee [non-students]: GBP100
-Conference dinner fee [optional]: GBP75
+- Registration fee [students]: GBP75
+- Registration fee [non-students]: GBP100
+- Conference dinner fee [optional]: GBP75
 
 (The conference dinner will be held at a Cambridge College. More information coming soon.)
 
