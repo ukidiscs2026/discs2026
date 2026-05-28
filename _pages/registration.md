@@ -6,9 +6,11 @@ header:
   caption: "Credit: © Mark Garlick."
 ---
 
+**Registration and abstract submission**
+
 <span style="color: #e74c3c;">Abstract submission for talks is now closed. Registration and poster submission remain open.</span>
 
-<span style="color: #e74c3c;">The SOC are finalizing requests for talks. If you requested a talk, we will announce our decision by **Friday May 8 2026**.</span>
+<!--<span style="color: #e74c3c;">The SOC are finalizing requests for talks. If you requested a talk, we will announce our decision by **Friday May 8 2026**.</span> -->
 
 There will be a modest conference fee for those attending in-person (GBP100 for non-students and GBP75 for students). The fee includes lunch and coffee breaks on all three days.
 
@@ -24,7 +26,9 @@ If you experience any issues with registration please email [soc-ukidiscs2026@li
 
 <!-- **[Register Here](https://forms.office.com/e/0HZE3ZiUZx)**   -->
 
+
 **Payment**
+
 Registration fee [students]: GBP75
 Registration fee [non-students]: GBP100
 Conference dinner fee [optional]: GBP75
