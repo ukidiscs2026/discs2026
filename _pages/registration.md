@@ -24,10 +24,14 @@ If you experience any issues with registration please email [soc-ukidiscs2026@li
 
 <!-- **[Register Here](https://forms.office.com/e/0HZE3ZiUZx)**   -->
 
-**<span style="color: #e74c3c;">(We are waiting for the University to set up the payment system. The deadline will be extended accordingly. We will notify participants once the payment system has been set up.)</span>**
+**Payment**
+Registration fee [students]: GBP75
+Registration fee [non-students]: GBP100
+Conference dinner fee [optional]: GBP75
 
-Final registration and payment deadline: TBC
+(The conference dinner will be held at a Cambridge College. More information coming soon.)
 
+<span style="color: #e74c3c;">(The deadline for payment is Friday, June 5, 2026. We are waiting for the University to set up the payment system.  We will notify participants once the payment system has been set up.)</span>
 
 <!--[- https://herts.configio.com/pd/2521/uk-ireland-discs-conference-2025 ]: #
 i) **Shopping Basket Selection**  
