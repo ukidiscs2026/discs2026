@@ -35,8 +35,8 @@ Note that the city center (as measured from the Senate House) is also within wal
 
 For those who do not wish to stay in a Cambridge college, some options include:
 - Hilton Cambridge City Center   (~30m walk) [https://www.hilton.com/en/hotels/stnhchi-hilton-cambridge-city-centre/](https://www.hilton.com/en/hotels/stnhchi-hilton-cambridge-city-centre/)
-- Graduate By Hilton Cambridge (on the river) (~30 min DAMTP) [https://www.hilton.com/en/hotels/stngagu-graduate-cambridge/](https://www.hilton.com/en/hotels/stngagu-graduate-cambridge/)
-- University Arms  (near Parker's Piece)   (~35min walk) [https://universityarms.com/](https://universityarms.com/)
+- Graduate By Hilton Cambridge (on the river) (~30 min walk) [https://www.hilton.com/en/hotels/stngagu-graduate-cambridge/](https://www.hilton.com/en/hotels/stngagu-graduate-cambridge/)
+- University Arms  (near Parker's Piece) (~35min walk) [https://universityarms.com/](https://universityarms.com/)
 
 <!--/*Student rooms are available on the de Havilland Campus at the University of Hertfordshire. These are a convenient and affordable option:
 - **£70** per night (room only)  
