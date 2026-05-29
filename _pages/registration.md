@@ -33,7 +33,37 @@ If you experience any issues with registration please email [soc-ukidiscs2026@li
 
 (The conference dinner will be held at a Cambridge College. More information coming soon.)
 
-<span style="color: #e74c3c;">The deadline for payment is Friday, June 5, 2026. We are waiting for the University to set up the payment system.  We will notify participants once the payment system has been set up.</span>
+Link to payment:  [https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-applied-mathematics-theoretical-physics-damtp/uk-and-ireland-accretion-discs-meeting](https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-applied-mathematics-theoretical-physics-damtp/uk-and-ireland-accretion-discs-meeting)
+
+
+Instructions [non-Cambridge participants]:
+
+- 1. Click the link to payment.
+- 2. Create an account if prompted.
+     Make sure you are on the "UK and Ireland Accretion Discs Meeting" page.
+     (From the drop-down menu on the left, select Conference and Events --> Department of Applied Mathematics and Theoretical Physics (DAMTP) --> UK and Ireland Accretion Discs Meeting).
+- 3. Click Book Event at the bottom of the page, either:
+  - a) Student Registration [GBP75]
+  - b) Standard Registration [GBP100]
+     (ignore the third option)
+- 4. If you want to attend the conference dinner [GBP75], select "Dinner ticket for delegate" on the following page.
+- 5. Click "Confirm Items", then "Proceed to Checkout"
+     
+     Please enter your name/institution/dietary requirements/mobility requirements when prompted.
+
+
+Instructions [Cambridge students/staff only]:
+
+If you are affiliated with Cambridge **do not** pay via the online payment system
+(unless you will be paying out-of-pocket).
+
+- Email your department's finance division and ask them to raise a "purchase order" (PO).
+- Tell them that this should be addressed to DAMPT (dept code LE).
+- Costs are the same as for other attendees:
+   - Student registration: GBP75
+   -  Non-student registration: GBP100
+   - Conference dinner [optional]: GBP75
+- Once you've done this, please go to the online payment system (see instructions above) and select the option "UoC Student/Staff Registration: Internal Cross-Charge". The charge is GBP0, but this will allow us to track who has paid for registration/dinner.
 
 <!--[- https://herts.configio.com/pd/2521/uk-ireland-discs-conference-2025 ]: #
 i) **Shopping Basket Selection**  
