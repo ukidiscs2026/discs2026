@@ -22,7 +22,7 @@ The closest bus stop to the department is on Madingley Road: the stop is called 
 ## Accommodation {#Accommodation} 
 Attendees are responsible for arranging their own accommodation. **We strongly recommend booking accommodation as soon as possible. July is a busy month in Cambridge (due to graduation, summer schools, and tourism), and prices tend to rise rapidly as summer approaches.** 
 
-Below are some convenient options located within walking distance of the department:
+Cambridge Colleges are usually (but not always!) cheaper than hotels. Below are some convenient College options located within walking distance of the department:
 
 - Churchill College: (~6min walk) [https://www.chu.cam.ac.uk/about/contact/](https://www.chu.cam.ac.uk/about/contact/)
 - Westminster College: (~12min walk) [https://www.westminster.cam.ac.uk/about-us/contact-main](https://www.westminster.cam.ac.uk/about-us/contact-main)
@@ -32,6 +32,11 @@ Below are some convenient options located within walking distance of the departm
 - Wolfson College: (~30min walk) [https://www.wolfson.cam.ac.uk/about/contact-us](https://www.wolfson.cam.ac.uk/about/contact-us)
 
 Note that the city center (as measured from the Senate House) is also within walking distance (~25min) from DAMTP. 
+
+For those who do not wish to stay in a Cambridge college, some options include:
+- Hilton Cambridge City Center   (~30m walk) [https://www.hilton.com/en/hotels/stnhchi-hilton-cambridge-city-centre/](https://www.hilton.com/en/hotels/stnhchi-hilton-cambridge-city-centre/)
+- Graduate By Hilton Cambridge (on the river) (~30 min DAMTP) [https://www.hilton.com/en/hotels/stngagu-graduate-cambridge/](https://www.hilton.com/en/hotels/stngagu-graduate-cambridge/)
+- University Arms  (near Parker's Piece)   (~35min walk) [https://universityarms.com/](https://universityarms.com/)
 
 <!--/*Student rooms are available on the de Havilland Campus at the University of Hertfordshire. These are a convenient and affordable option:
 - **£70** per night (room only)  
