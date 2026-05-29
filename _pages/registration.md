@@ -47,7 +47,7 @@ Link to payment:  [https://onlinesales.admin.cam.ac.uk/conferences-and-events/de
   - b) Standard Registration: GBP100
   - (ignore the third option)
   4. If you want to attend the conference dinner [GBP75], select "Dinner ticket for delegate" on the following page.
-  5. Click "Confirm Items", then "Proceed to Checkout"
+  5. Click "Confirm Items", then "Proceed to Checkout".
      Please enter your name/institution/dietary requirements/mobility requirements when prompted.
 
 
