@@ -36,7 +36,7 @@ If you experience any issues with registration please email [soc-ukidiscs2026@li
 Link to payment:  [https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-applied-mathematics-theoretical-physics-damtp/uk-and-ireland-accretion-discs-meeting](https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-applied-mathematics-theoretical-physics-damtp/uk-and-ireland-accretion-discs-meeting)
 
 
-Instructions [non-Cambridge participants]:
+<u>Instructions [non-Cambridge participants]:<u>
 
   1. Click the link to payment.
   2. Create an account if prompted.
@@ -52,7 +52,7 @@ Instructions [non-Cambridge participants]:
      Please enter your name/institution/dietary requirements/mobility requirements when prompted.
 
 
-Instructions [Cambridge students/staff only]:
+<u>Instructions [Cambridge students/staff, <i>only</i>]:</u>
 
 If you are affiliated with Cambridge **do not** pay via the online payment system
 (unless you will be paying out-of-pocket).
