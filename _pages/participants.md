@@ -87,6 +87,7 @@ Registered attendees (subject to change):
 - Prathamesh Ratnaparkhi (IUCAA, Pune, India)
 - Steven Rendon Restrepo (Leibniz-Instituts für Astrophysik, Potsdam)
 - Giulia Ricciardi (ESO Garching)
+- Jonathan Ramos (Universidade Federal de Santa Catarina)
 - Stephan	Rosswog	(University of Hamburg and Stockholm University)
 - Connar Rowan	(The Niels Bohr Institute) 
 - Sahl Rowther (University of Warwick)
