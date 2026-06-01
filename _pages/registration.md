@@ -33,7 +33,7 @@ If you experience any issues with registration please email [soc-ukidiscs2026@li
 
 (The conference dinner will be held at a Cambridge College. More information coming soon.)
 
-Link to payment:  [https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-applied-mathematics-theoretical-physics-damtp/uk-and-ireland-accretion-discs-meeting](https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-applied-mathematics-theoretical-physics-damtp/uk-and-ireland-accretion-discs-meeting)
+Link to payment:  [https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-applied-mathematics-theoretical-physics-damtp/uk-and-ireland-accretion-discs-meeting/uk-and-ireland-accretion-discs-meeting-20-22-july-2026](https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-applied-mathematics-theoretical-physics-damtp/uk-and-ireland-accretion-discs-meeting/uk-and-ireland-accretion-discs-meeting-20-22-july-2026)
 
 
 <u>Instructions [non-Cambridge participants]:<u>
