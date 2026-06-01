@@ -74,7 +74,7 @@ Registered attendees (subject to change):
 - Gordon Ogilvie (DAMTP, University of Cambridge)
 - Aneurin	Orme (University of Exeter)
 - Cory Padgett (Clemson University)
-- Sébastien	Paine	(Queen Mary University of London)
+- Sasha	Paine	(Queen Mary University of London)
 - Ishika Palit (Institute of Astronomy, NTHU, Hsinchu, Taiwan)
 - Zoe Parker (University of Leeds)
 - Joaquin	Pelle	(Max Planck Institute for Gravitational Physics)
