@@ -99,6 +99,7 @@ Registered attendees (subject to change):
 - Gilad	Sadeh	(Max Planck Institute for Gravitational Physics (AEI))
 - Dominic	Samra	(University of Chicago)
 - Chiara Eleonora	Scardoni	(University of Milan)
+- Natasha	Savic	(Coventry University)
 - Lukas	Schnabel	(University of Hamburg)
 - Antranik Sefilian	(University of Arizona)
 - Benjamin Silk	(TU Delft)
