@@ -45,6 +45,7 @@ Registered attendees (subject to change):
 - Heather Johnston (University of Exeter)
 - Jibin Joseph (Leibniz Institüt fur Astrophysik)
 - Jay Vijay	Kalinani (University of Illinois Urbana-Champaign)
+- Conall Kavanagh (University of Leeds)
 - Khushboo Khushboo (Ludwig Maximilian University of Munich)
 - Philip Kirkeberg (Niels Bohr Institute)
 - Christian	Knigge (University of Southampton)
