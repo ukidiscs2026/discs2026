@@ -8,7 +8,7 @@ header:
 
 **Registration and abstract submission**
 
-<span style="color: #e74c3c;">Abstract submission for talks and posters is now closed. Registration is still open, but attending, only (either in-person or online). </span>
+<span style="color: #e74c3c;">Abstract submission for talks and posters is now closed. Registration is still open, but for attending the conference, only (either in-person or online). </span>
 
 <!--<span style="color: #e74c3c;">The SOC are finalizing requests for talks. If you requested a talk, we will announce our decision by **Friday May 8 2026**.</span> -->
 
