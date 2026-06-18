@@ -113,6 +113,7 @@ Registered attendees (subject to change):
 - Emma Whelan	(Maynooth University)
 - Morgan Williams	(Imperial College London)
 - Alison Young (University of Leeds)
+- Zachary	Gilbert-Murphy (Queen Mary University of London) 
 - Francesco	Zagaria	(MPIA)
 - Luyao	Zhang	(University of Leicester)
 - Mathéo Zjawiony	(IPAG)
