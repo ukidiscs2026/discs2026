@@ -70,7 +70,7 @@ Registered attendees (subject to change):
 - Miquel Miravet-Tenés (University of Southampton)
 - Subhanjoy	Mohanty (Imperial College London)
 - Bhawna Mukhija (Ariel University, Israel)
-- Michael	Munnelly (University of Oklahoma)
+- Michael	Munnelly (Baylor University)
 - Sergei Nayakshin (University of Leicester)
 - Richard	Nelson (Queen Mary University of London)
 - Chiara Niccolai (Scuola Superiore Meridionale (Naples))
