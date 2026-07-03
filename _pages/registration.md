@@ -37,14 +37,14 @@ If you experience any issues with registration please email [soc-ukidiscs2026@li
 
 <!--Link to payment:  [https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-applied-mathematics-theoretical-physics-damtp/uk-and-ireland-accretion-discs-meeting/uk-and-ireland-accretion-discs-meeting-20-22-july-2026](https://onlinesales.admin.cam.ac.uk/conferences-and-events/department-of-applied-mathematics-theoretical-physics-damtp/uk-and-ireland-accretion-discs-meeting/uk-and-ireland-accretion-discs-meeting-20-22-july-2026)-->
 
-<!--
-<u>Instructions [non-Cambridge participants]:<u>
+<!--<u>Instructions [non-Cambridge participants]:<u>
 
   1. Click the link to payment.
   2. Create an account if prompted.
      Make sure you are on the "UK and Ireland Accretion Discs Meeting" page.
      (From the drop-down menu on the left, select Conference and Events --> Department of Applied Mathematics and Theoretical Physics (DAMTP) --> UK and Ireland Accretion Discs Meeting).-->
- <!-- 3. Click Book Event at the bottom of the page, either:
+     
+<!-- 3. Click Book Event at the bottom of the page, either:
   - a) Student Registration: GBP75
   - b) Standard Registration: GBP100
   - (ignore the third option)
@@ -53,8 +53,7 @@ If you experience any issues with registration please email [soc-ukidiscs2026@li
      Please enter your name/institution/dietary requirements/mobility requirements when prompted.-->
 
 
-<!--
-<u>Instructions [Cambridge students/staff, <i>only</i>]:</u>
+<!--<u>Instructions [Cambridge students/staff, <i>only</i>]:</u>
 
 If you are affiliated with Cambridge **do not** pay via the online payment system
 (unless you will be paying out-of-pocket).
