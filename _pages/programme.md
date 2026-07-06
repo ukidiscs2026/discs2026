@@ -14,15 +14,15 @@ The meeting will take place over three days, from Monday 20 July to Wednesday 22
 
 _Morning sessions_
 
-**0930 - 1030** REGISTRATION/COFFEE		
-**1030 - 1045** WELCOME
+**0930 - 1030** REGISTRATION/COFFEE<br>	
+**1030 - 1045** WELCOME<br>
 
-**1045 - 11:25** Rebeca Garcia Lopez -- Review on jets in low energy systems
-**1125 - 1140**  Lorenzo Malanga -- DEMOS: understanding disc evolution models from observed demographics
-**1140 - 1155**  Sebastien Paine -- Dust Entrainment in External Photoevaporative Winds: Theory and Observation
-**1155 - 1210**  Emma Whelan -- Coordinated space and ground-based monitoring of accretion-ejection connection on timescales of days in DQ Tau
-**1210 - 1225**  Naman Bajaj -- From Evolution to Dispersal: Mapping Disk Outflows Across 70 Class I/II Systems with JWST/MIRI
-**1225 - 1240**  Anastasia Tzouvanou -- Structure and wind formation in magnetized protoplanetary discs
+**1045 - 11:25** Rebeca Garcia Lopez -- Review on jets in low energy systems<br>
+**1125 - 1140**  Lorenzo Malanga -- DEMOS: understanding disc evolution models from observed demographics<br>
+**1140 - 1155**  Sebastien Paine -- Dust Entrainment in External Photoevaporative Winds: Theory and Observation<br>
+**1155 - 1210**  Emma Whelan -- Coordinated space and ground-based monitoring of accretion-ejection connection on timescales of days in DQ Tau<br>
+**1210 - 1225**  Naman Bajaj -- From Evolution to Dispersal: Mapping Disk Outflows Across 70 Class I/II Systems with JWST/MIRI<br>
+**1225 - 1240**  Anastasia Tzouvanou -- Structure and wind formation in magnetized protoplanetary discs<br>
 
 **1240 - 1400**  LUNCH
 
