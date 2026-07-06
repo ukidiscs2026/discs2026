@@ -17,7 +17,7 @@ _Morning sessions_
 **0930 - 1030** REGISTRATION/COFFEE<br>	
 **1030 - 1045** WELCOME<br>
 
-**1045 - 11:25** Rebeca Garcia Lopez -- Review on jets in low energy systems<br>
+**1045 - 11:25** <span style="color: #3498db;"Rebeca Garcia Lopez -- Review on jets in low energy systems<span style="color: #e74c3c;"<br>
 **1125 - 1140**  Lorenzo Malanga -- DEMOS: understanding disc evolution models from observed demographics<br>
 **1140 - 1155**  Sasha Paine -- Dust Entrainment in External Photoevaporative Winds: Theory and Observation<br>
 **1155 - 1210**  Emma Whelan -- Coordinated space and ground-based monitoring of accretion-ejection connection on timescales of days in DQ Tau<br>
@@ -80,7 +80,7 @@ _Afternoon sessions_
 **1645 - 1700** Debora Lancova -- Radiative GRMHD simulations of stable sub-Eddington accretion discs<br>
 **1700 - 1715** Clement Bonnerot -- Unleashing the predictive power of tidal disruption events
 
-**1900 - 1930** Conference dinner reception at Sidney Sussex College
+**1900 - 1930** Conference dinner reception at Sidney Sussex College<br>
 **1930 - 2130** Conference dinner at Sidney Sussex College
 
 **WEDNESDAY June 22**
