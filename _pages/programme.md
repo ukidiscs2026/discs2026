@@ -100,14 +100,15 @@ _Morning sessions_
 
 _Afternoon sessions_
 
+
 **1400 - 1440** Alison Young -- Review on warped disks and flybys<br>
 **1440 - 1455** Sahl Rowther -- Planet Formation in Warped Discs Driven by Gravitational Instability and Infall<br>
-**1455 - 1510** Vasundhara Prasad -- Kinematic Signatures of Stellar Flybys in Protoplanetary Discs<br>
-**1510 - 1525** Callum Fairbairn -- Dust Dynamics in Warped Discs<br>
+**1455 - 1510** Callum Fairbairn -- Dust Dynamics in Warped Discs<br>
+**1510 - 1525** Yona Baleradj-Lapeyre -- Exascale simulations of warped accretion discs<br>
 **1525 - 1545** Coffee break<br>
 
-**1545 - 1600** Yona Baleradj-Lapeyre -- Exascale simulations of warped accretion discs<br>
-**1600 - 1615** Greg Marcel -- Disk Warping to unifiy low-frequency QPOs in X-ray Binaries<br>
+**1545 - 1600** Greg Marcel -- Disk Warping to unifiy low-frequency QPOs in X-ray Binaries<br>
+**1600 - 1615** Vasundhara Prasad -- Kinematic Signatures of Stellar Flybys in Protoplanetary Discs<br>
 **1615 - 1630** Arcelia Hermosillo Ruiz -- A Stellar Flyby in Action: Untangling the Dynamics of HD141569's Hybrid Disc<br>
 
 **1630 - 1645** Closing Remarks
