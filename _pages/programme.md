@@ -19,7 +19,7 @@ _Morning sessions_
 
 **1045 - 11:25** Rebeca Garcia Lopez -- Review on jets in low energy systems<br>
 **1125 - 1140**  Lorenzo Malanga -- DEMOS: understanding disc evolution models from observed demographics<br>
-**1140 - 1155**  Sebastien Paine -- Dust Entrainment in External Photoevaporative Winds: Theory and Observation<br>
+**1140 - 1155**  Sasha Paine -- Dust Entrainment in External Photoevaporative Winds: Theory and Observation<br>
 **1155 - 1210**  Emma Whelan -- Coordinated space and ground-based monitoring of accretion-ejection connection on timescales of days in DQ Tau<br>
 **1210 - 1225**  Naman Bajaj -- From Evolution to Dispersal: Mapping Disk Outflows Across 70 Class I/II Systems with JWST/MIRI<br>
 **1225 - 1240**  Anastasia Tzouvanou -- Structure and wind formation in magnetized protoplanetary discs<br>
