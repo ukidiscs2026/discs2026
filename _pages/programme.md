@@ -22,7 +22,7 @@ _Morning sessions_
 **1140 - 1155**  Sasha Paine -- Dust Entrainment in External Photoevaporative Winds: Theory and Observation<br>
 **1155 - 1210**  Emma Whelan -- Coordinated space and ground-based monitoring of accretion-ejection connection on timescales of days in DQ Tau<br>
 **1210 - 1225**  Naman Bajaj -- From Evolution to Dispersal: Mapping Disk Outflows Across 70 Class I/II Systems with JWST/MIRI<br>
-**1225 - 1240**  Anastasia Tzouvanou -- Structure and wind formation in magnetized protoplanetary discs<br>
+**1225 - 1240**  Anastasia Tzouvanou -- Structure and wind formation in magnetized protoplanetary discs
 
 **1240 - 1400**  LUNCH
 
@@ -32,16 +32,16 @@ _Afternoon sessions_
 **1440 - 1455**  Prasun Dhang -- Beyond Jets: How Strong Magnetic Fields Redistribute Black Hole Spin Energy<br>
 **1455 - 1510**  Chiara Niccolai -- Decoupling Line and Continuum Variability: Evidence for Disc Truncation in High-Accretion Quasars<br>
 **1510 - 1525**  Poster Presentations 1<br>
-**1525 - 1555**  Coffee break<br>
+**1525 - 1555**  Coffee break
 
 **1555 - 1610**  Lukas Schnabel -- Neutron star mergers containing a millisecond pulsar <br>
 **1610 - 1625**  Gilad Sadeh -- The hydrodynamics of stratified ultra-relativistic outflows and the origin of GRB X-ray plateaus<br>
 **1625 - 1640**  Poster Presentations 2<br>
-**1640 - 1710**  Coffee break<br>
+**1640 - 1710**  Coffee break
 
 **1640 - 1755**  Chiara Scardoni -- From inward to outward : how eccentricity in discs can change the fate of giant planets<br>
 **1725 - 1740**  Anna Penzlin -- Circumbinary discs at the limit<br>
-**1740 - 1755**  Cheng Chen -- The Arc in the DX Cha Circumbinary System: Evidence For a Retrograde Circumbinary Disk<br>
+**1740 - 1755**  Cheng Chen -- The Arc in the DX Cha Circumbinary System: Evidence For a Retrograde Circumbinary Disk
 
 **1800 - 1825**  Thomas Jannaud -- The impact of astrophysics on the environment
 
@@ -55,13 +55,13 @@ _Morning sessions_
 **1010 - 1025** Francesco Zagaria -- Insights on planet-disc interactions from the deepest ever ALMA observations of PDS 70<br>
 **1025 - 1040** Amelia Cordwell -- How two-dimensional are planet-disc interactions?<br>
 **1040 - 1055** Giulia Ricciardi -- Compact CO emission and no evidence of radial drift. ALMA observations of the faintest planet-forming disks.<br> 
-**1055 - 1125** Coffee break<br>
+**1055 - 1125** Coffee break
 
 **1125 - 1140** Simin Tong -- What can we learn about dust growth from ubiquitous dust rings?<br>
 **1140 - 1155** Felipe Alarcon -- EK Cha as a unique lab to catch late stages of planet formation.<br>
 **1155 - 1205** Morgan Williams -- Planet Formation in a Dynamic Inner Disc<br>
 **1205 - 1220** Jibin Joseph -- The Impact of Late-stage Infall on Protoplanetary disk Structure and Environment<br>
-**1220 - 1235** Lin Quiao -- Disc evolution and planetary system formation under the impacts of their natal stellar cluster environments<br>
+**1220 - 1235** Lin Quiao -- Disc evolution and planetary system formation under the impacts of their natal stellar cluster environments
 
 **1235 - 1400** LUNCH
 
@@ -78,7 +78,7 @@ _Afternoon sessions_
 **1615 - 1630** Marcus Hatton -- EM Signatures of the Minidisks in Late-Stage Massive Black Hole Binary Inspirals<br>
 **1630 - 1645** Kondrad Topolski -- The landscape of accretion disks produced in BH–NS mergers and their electromagnetic prospects<br>
 **1645 - 1700** Debora Lancova -- Radiative GRMHD simulations of stable sub-Eddington accretion discs<br>
-**1700 - 1715** Clement Bonnerot -- Unleashing the predictive power of tidal disruption events<br>
+**1700 - 1715** Clement Bonnerot -- Unleashing the predictive power of tidal disruption events
 
 
 **WEDNESDAY June 22**
@@ -94,7 +94,7 @@ _Morning sessions_
 **1125 - 1140** Cat Leedham -- Collision Velocities of Dust Grains in Self-Gravitating Discs<br>
 **1140 - 1155** Steven Rendon Restrepo -- Impact of gravity modeling in thin discs: resolving numerical convergence of GI and revealing overestimation of planetary masses<br>
 **1155 - 1210** Jip Matthijsse -- Dust-driven vertical shear instability in a local and isothermal shearing box<br>
-**1210 - 1225** Amanda Caveagna -- The anomalous flares of the Nova-like variable V704 And (thermal instability)<br>
+**1210 - 1225** Amanda Caveagna -- The anomalous flares of the Nova-like variable V704 And (thermal instability)
 
 **1230 - 1330** LUNCH
 
@@ -105,10 +105,10 @@ _Afternoon sessions_
 **1440 - 1455** Sahl Rowther -- Planet Formation in Warped Discs Driven by Gravitational Instability and Infall<br>
 **1455 - 1510** Callum Fairbairn -- Dust Dynamics in Warped Discs<br>
 **1510 - 1525** Yona Baleradj-Lapeyre -- Exascale simulations of warped accretion discs<br>
-**1525 - 1545** Coffee break<br>
+**1525 - 1545** Coffee break
 
 **1545 - 1600** Greg Marcel -- Disk Warping to unifiy low-frequency QPOs in X-ray Binaries<br>
 **1600 - 1615** Vasundhara Prasad -- Kinematic Signatures of Stellar Flybys in Protoplanetary Discs<br>
-**1615 - 1630** Arcelia Hermosillo Ruiz -- A Stellar Flyby in Action: Untangling the Dynamics of HD141569's Hybrid Disc<br>
+**1615 - 1630** Arcelia Hermosillo Ruiz -- A Stellar Flyby in Action: Untangling the Dynamics of HD141569's Hybrid Disc
 
 **1630 - 1645** Closing Remarks
