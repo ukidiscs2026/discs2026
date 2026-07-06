@@ -94,7 +94,7 @@ _Morning sessions_
 **1125 - 1140** Cat Leedham -- Collision Velocities of Dust Grains in Self-Gravitating Discs<br>
 **1140 - 1155** Steven Rendon Restrepo -- Impact of gravity modeling in thin discs: resolving numerical convergence of GI and revealing overestimation of planetary masses<br>
 **1155 - 1210** Jip Matthijsse -- Dust-driven vertical shear instability in a local and isothermal shearing box<br>
-**1210 - 1225** Amanda Caveagna -- The anomalous flares of the Nova-like variable V704 And (thermal instability)
+**1210 - 1225** Amanda Caveagna Rubio -- The anomalous flares of the Nova-like variable V704 And (thermal instability)
 
 **1230 - 1330** LUNCH
 
