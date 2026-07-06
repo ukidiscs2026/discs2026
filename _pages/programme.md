@@ -17,7 +17,7 @@ _Morning sessions_
 **0930 - 1030** REGISTRATION/COFFEE<br>	
 **1030 - 1045** WELCOME<br>
 
-**1045 - 11:25** <span style="color: #3498db;>"Rebeca Garcia Lopez -- Review on jets in low energy systems</span><br>
+**1045 - 11:25** <span style="color: ##3498db;">"Rebeca Garcia Lopez -- Review on jets in low energy systems</span><br>
 **1125 - 1140**  Lorenzo Malanga -- DEMOS: understanding disc evolution models from observed demographics<br>
 **1140 - 1155**  Sasha Paine -- Dust Entrainment in External Photoevaporative Winds: Theory and Observation<br>
 **1155 - 1210**  Emma Whelan -- Coordinated space and ground-based monitoring of accretion-ejection connection on timescales of days in DQ Tau<br>
