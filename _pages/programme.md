@@ -80,6 +80,8 @@ _Afternoon sessions_
 **1645 - 1700** Debora Lancova -- Radiative GRMHD simulations of stable sub-Eddington accretion discs<br>
 **1700 - 1715** Clement Bonnerot -- Unleashing the predictive power of tidal disruption events
 
+**1900 - 1930** Conference dinner reception at Sidney Sussex College
+**1930 - 2130** Conference dinner at Sidney Sussex College
 
 **WEDNESDAY June 22**
 
