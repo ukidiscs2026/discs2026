@@ -61,7 +61,7 @@ _Morning sessions_
 **1140 - 1155** Felipe Alarcon -- EK Cha as a unique lab to catch late stages of planet formation.<br>
 **1155 - 1205** Morgan Williams -- Planet Formation in a Dynamic Inner Disc<br>
 **1205 - 1220** Jibin Joseph -- The Impact of Late-stage Infall on Protoplanetary disk Structure and Environment<br>
-**1220 - 1235** Lin Quiao -- Disc evolution and planetary system formation under the impacts of their natal stellar cluster environments
+**1220 - 1235** Lin Qiao -- Disc evolution and planetary system formation under the impacts of their natal stellar cluster environments
 
 **1235 - 1400** LUNCH
 
