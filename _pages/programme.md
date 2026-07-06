@@ -96,6 +96,7 @@ _Morning sessions_
 **1155 - 1210** Jip Matthijsse -- Dust-driven vertical shear instability in a local and isothermal shearing box<br>
 **1210 - 1225** Amanda Caveagna -- The anomalous flares of the Nova-like variable V704 And (thermal instability)<br>
 
+**1230 - 1330** LUNCH
 
 _Afternoon sessions_
 
