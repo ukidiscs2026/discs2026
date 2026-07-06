@@ -47,7 +47,7 @@ _Afternoon sessions_
 
 
 
-**TUESDAY June 21**
+**TUESDAY JUNE 21**
 
 _Morning sessions_ 
 
@@ -83,7 +83,7 @@ _Afternoon sessions_
 **1900 - 1930** Conference dinner reception at Sidney Sussex College<br>
 **1930 - 2130** Conference dinner at Sidney Sussex College
 
-**WEDNESDAY June 22**
+**WEDNESDAY JUNE 22**
 
 _Morning sessions_ 
 
