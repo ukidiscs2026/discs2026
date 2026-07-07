@@ -10,7 +10,7 @@ layout: splash
 The meeting will take place over three days, from Monday 20 July to Wednesday 22 July 2026. To accommodate arrivals, the programme will begin later in the morning on Monday, while Tuesday and Wednesday will feature a full schedule of sessions.
 
 
-**MONDAY JUNE 20**
+**MONDAY JULY 20**
 
 _Morning sessions_
 
@@ -48,7 +48,7 @@ Driving Mechanisms and Observational Signatures<br>
 
 
 
-**TUESDAY JUNE 21**
+**TUESDAY JULY 21**
 
 _Morning sessions_ 
 
@@ -84,7 +84,7 @@ _Afternoon sessions_
 **1900 - 1930** Conference dinner reception at Sidney Sussex College<br>
 **1930 - 2130** Conference dinner at Sidney Sussex College
 
-**WEDNESDAY JUNE 22**
+**WEDNESDAY JULY 22**
 
 _Morning sessions_ 
 
