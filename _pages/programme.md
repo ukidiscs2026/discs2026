@@ -28,7 +28,8 @@ _Morning sessions_
 
 _Afternoon sessions_
 
-**1400 - 1440**  Christian Knigge -- Review on jets in high energy systems<br>
+**1400 - 1440**  Christian Knigge -- Accretion Disk Winds:
+Driving Mechanisms and Observational Signatures<br>
 **1440 - 1455**  Prasun Dhang -- Beyond Jets: How Strong Magnetic Fields Redistribute Black Hole Spin Energy<br>
 **1455 - 1510**  Chiara Niccolai -- Decoupling Line and Continuum Variability: Evidence for Disc Truncation in High-Accretion Quasars<br>
 **1510 - 1525**  Poster Presentations 1<br>
