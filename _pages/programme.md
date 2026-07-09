@@ -54,7 +54,7 @@ _Morning sessions_
 
 **0930 - 1010** Richard Alexander -- Review on planet-disk interactions<br>
 **1010 - 1025** Amelia Cordwell -- How two-dimensional are planet-disc interactions?<br>
-**1025 - 1040** Francesco Zagaria -- Insights on planet-disc interactions from the deepest ever ALMA observations of PDS 70<br>
+**1025 - 1040** Francesco Zagaria -- Compact CO emission in planet-forming discs in Upper Sco<br>
 **1040 - 1055** Giulia Ricciardi -- Compact CO emission and no evidence of radial drift. ALMA observations of the faintest planet-forming disks.<br> 
 **1055 - 1125** Coffee break
 
