@@ -90,14 +90,14 @@ _Morning sessions_
 
 **0930 - 1010** Henrik Latter -- Review on turbulence and instabilities in disks<br>
 **1010 - 1025** Nicolas Brughmans -- Non-axisymmetric instabilities in accretion disks with suprathermal toroidal fields: a global spectral analysis<br>
-**1025 - 1040** Heather Johnston -- Debris Disc Formation via External Photoevaporation (via streaming instability)<br>
+**1025 - 1040** Heather Johnston -- Debris Disc Formation via External Photoevaporation<br>
 **1040 - 1055** Farzana Meru -- Gravitationally unstable discs delay the radial drift of dust<br>
 **1055 - 1125** Coffee break
 
 **1125 - 1140** Cat Leedham -- Collision Velocities of Dust Grains in Self-Gravitating Discs<br>
 **1140 - 1155** Steven Rendon Restrepo -- Impact of gravity modeling in thin discs: resolving numerical convergence of GI and revealing overestimation of planetary masses<br>
 **1155 - 1210** Jip Matthijsse -- Dust-driven vertical shear instability in a local and isothermal shearing box<br>
-**1210 - 1225** Amanda Caveagna Rubio -- The anomalous flares of the Nova-like variable V704 And (thermal instability)
+**1210 - 1225** Amanda Caveagna Rubio -- The anomalous flares of the Nova-like variable V704 And
 
 **1230 - 1400** LUNCH
 
