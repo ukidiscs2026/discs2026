@@ -78,7 +78,7 @@ _Afternoon sessions_
 **1600 - 1615** Joaquin Pelle -- Accretion-powered flares from black hole-disk collisions in galactic nuclei<br>
 **1615 - 1630** Marcus Hatton -- EM Signatures of the Minidisks in Late-Stage Massive Black Hole Binary Inspirals<br>
 **1630 - 1645** Konrad Topolski -- The landscape of accretion disks produced in BH–NS mergers and their electromagnetic prospects<br>
-**1645 - 1700** Debora Lancova -- Radiative GRMHD simulations of stable sub-Eddington accretion discs<br>
+**1645 - 1700** Debora Lančová -- Radiative GRMHD simulations of stable sub-Eddington accretion discs<br>
 **1700 - 1715** Clement Bonnerot -- Unleashing the predictive power of tidal disruption events
 
 **1900 - 1930** Conference dinner reception at Sidney Sussex College<br>
