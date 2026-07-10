@@ -90,7 +90,7 @@ _Morning sessions_
 
 **0930 - 1010** Henrik Latter -- Review on turbulence and instabilities in disks<br>
 **1010 - 1025** Nicolas Brughmans -- Non-axisymmetric instabilities in accretion disks with suprathermal toroidal fields: a global spectral analysis<br>
-**1025 - 1040** Heather Johnston -- Debris Disc Formation via External Photoevaporation<br>
+**1025 - 1040** Heather Johnston -- Debris Disc Formation via External Photoevaporation (via the streaming instability)<br>
 **1040 - 1055** Farzana Meru -- Gravitationally unstable discs delay the radial drift of dust<br>
 **1055 - 1125** Coffee break
 
