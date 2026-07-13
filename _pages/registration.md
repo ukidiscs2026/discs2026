@@ -33,6 +33,6 @@ If you experience any issues with registration please email [soc-ukidiscs2026@li
 - Registration fee [non-students]: GBP100
 - Conference dinner fee [optional]: GBP75
 
-(The conference dinner will be held at a Cambridge College. More information coming soon.)
+(The conference dinner will be held at Sidney Sussex College on Tuesday, July 21, 2026.)
 
 
