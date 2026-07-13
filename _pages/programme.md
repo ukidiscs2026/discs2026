@@ -17,6 +17,7 @@ _Morning sessions_
 **0930 - 1030** REGISTRATION/COFFEE<br>	
 **1030 - 1045** WELCOME<br>
 
+Chair: Francesco Zagaria</br>
 **1045 - 11:25** Rebeca Garcia Lopez -- Review on winds in low energy systems<br>
 **1125 - 1140**  Lorenzo Malanga -- DEMOS: understanding disc evolution models from observed demographics<br>
 **1140 - 1155**  Sasha Paine -- Dust Entrainment in External Photoevaporative Winds: Theory and Observation<br>
@@ -28,6 +29,7 @@ _Morning sessions_
 
 _Afternoon sessions_
 
+Chair: Greg Marcel<br>
 **1400 - 1440**  Christian Knigge -- Accretion Disk Winds:
 Driving Mechanisms and Observational Signatures<br>
 **1440 - 1455**  Prasun Dhang -- Beyond Jets: How Strong Magnetic Fields Redistribute Black Hole Spin Energy<br>
@@ -37,6 +39,8 @@ Driving Mechanisms and Observational Signatures<br>
 
 **1555 - 1610**  Lukas Schnabel -- Neutron star mergers containing a millisecond pulsar <br>
 **1610 - 1625**  Gilad Sadeh -- The hydrodynamics of stratified ultra-relativistic outflows and the origin of GRB X-ray plateaus<br>
+
+Chair: Loren E. Held<br>
 **1625 - 1640**  Poster Presentations 2<br>
 **1640 - 1710**  Coffee break
 
@@ -52,6 +56,7 @@ Driving Mechanisms and Observational Signatures<br>
 
 _Morning sessions_ 
 
+Chair: Anna Penzlin<br>
 **0930 - 1010** Richard Alexander -- Review on planet-disk interactions<br>
 **1010 - 1025** Amelia Cordwell -- How two-dimensional are planet-disc interactions?<br>
 **1025 - 1040** Francesco Zagaria -- Compact CO emission in planet-forming discs in Upper Sco<br>
@@ -68,6 +73,7 @@ _Morning sessions_
 
 _Afternoon sessions_
 
+Chair: Prasun Dhang<br>
 **1400 - 1440** Martin Pessah -- Review on dynamical interactions in AGN disks<br>
 **1440 - 1455** Philipp Kirkeberg -- Linear Theory of Disk-Embedded Binaries<br>
 **1455 - 1510** Martin Bourne -- Supermassive black hole binary dynamics, growth and spin alignment in gas-rich circumbinary discs<br>
@@ -75,6 +81,7 @@ _Afternoon sessions_
 **1525 - 1540** Matthew Middleton -- Misaligned super-Eddington accretion and the growth of supermassive black holes<br>
 **1540 - 1600** Coffee Break
 
+Chair: TBD<br>
 **1600 - 1615** Joaquin Pelle -- Accretion-powered flares from black hole-disk collisions in galactic nuclei<br>
 **1615 - 1630** Marcus Hatton -- EM Signatures of the Minidisks in Late-Stage Massive Black Hole Binary Inspirals<br>
 **1630 - 1645** Konrad Topolski -- The landscape of accretion disks produced in BH–NS mergers and their electromagnetic prospects<br>
@@ -88,6 +95,7 @@ _Afternoon sessions_
 
 _Morning sessions_ 
 
+Chair: Debora Lančová<br>
 **0930 - 1010** Henrik Latter -- Review on turbulence and instabilities in disks<br>
 **1010 - 1025** Nicolas Brughmans -- Non-axisymmetric instabilities in accretion disks with suprathermal toroidal fields: a global spectral analysis<br>
 **1025 - 1040** Heather Johnston -- Debris Disc Formation via External Photoevaporation (via the streaming instability)<br>
@@ -103,7 +111,7 @@ _Morning sessions_
 
 _Afternoon sessions_
 
-
+Chair: Martin Bourne<br>
 **1400 - 1440** Alison Young -- Review on warped disks and flybys<br>
 **1440 - 1455** Sahl Rowther -- Planet Formation in Warped Discs Driven by Gravitational Instability and Infall<br>
 **1455 - 1510** Callum Fairbairn -- Dust Dynamics in Warped Discs<br>
