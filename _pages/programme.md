@@ -120,7 +120,7 @@ Chair: Martin Bourne<br>
 **1510 - 1525** Yona Baleradj-Lapeyre -- Exascale simulations of warped accretion discs<br>
 **1525 - 1545** Coffee break
 
-**1545 - 1600** Greg Marcel -- Disk Warping to unifiy low-frequency QPOs in X-ray Binaries<br>
+**1545 - 1600** Greg Marcel -- Disk warping to unify low-frequency QPOs in X-ray Binaries<br>
 **1600 - 1615** Vasundhara Prasad -- Kinematic Signatures of Stellar Flybys in Protoplanetary Discs<br>
 **1615 - 1630** Arcelia Hermosillo Ruiz -- A Stellar Flyby in Action: Untangling the Dynamics of HD141569's Hybrid Disc
 
