@@ -83,7 +83,7 @@ Chair: Prasun Dhang<br>
 **1525 - 1540** Matthew Middleton -- Misaligned super-Eddington accretion and the growth of supermassive black holes<br>
 **1540 - 1600** Coffee Break
 
-Chair: TBD<br>
+Chair: Chiara Niccolai<br>
 **1600 - 1615** Joaquin Pelle -- Accretion-powered flares from black hole-disk collisions in galactic nuclei<br>
 **1615 - 1630** Marcus Hatton -- EM Signatures of the Minidisks in Late-Stage Massive Black Hole Binary Inspirals<br>
 **1630 - 1645** Konrad Topolski -- The landscape of accretion disks produced in BH–NS mergers and their electromagnetic prospects<br>
