@@ -183,7 +183,7 @@ _Jesus Green:_ This short and pleasant walk starts from the Senate House in the 
 _Grantchester Village:_ Attendees wishing to escape the hustle and bustle of the town might want to visit the charming village of Grantchester, south of Cambridge. The village is about a 40-50 minute walk from the center of town, most of which skirts the river Cam. Once there you can get a terrific pub lunch at one of the many pubs in the village, or visit the famous apple orchard for scones and tea [https://www.theorchardteagarden.co.uk/](https://www.theorchardteagarden.co.uk/).
 
 **Punting:**
-Punting is an extremely popular and fun activity in Cambridge in summer. Attendees can book their own punts, or book guided tours, from the following companies:
+Punting is an extremely popular and fun activity in Cambridge in summer. You book your own punts, or book guided tours, from the following companies:
 - Trinity Punts: [https://www.trin.cam.ac.uk/about/punting/](https://www.trin.cam.ac.uk/about/punting/)
 - Scoudamore's: [https://www.scudamores.com/](https://www.scudamores.com/)
 
