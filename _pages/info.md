@@ -184,7 +184,7 @@ There is also a wonderful [botanic garden](https://www.botanic.cam.ac.uk) about 
 
 **Walks:**
 
-_Jesus Green:_ This short and pleasant walk starts from the Senate House in the center of town, which is where graduations are held. First scale the tower of nearby [Great St. Mary's](https://www.greatstmarys.org/) for amazing views of the city. Then walk north past the historic colleges of Gonville and Caius (Stephen Hawking's old college), Trinity College, and St. John's, before stopping the [Round Church](https://roundchurchcambridge.org/). Finally, continue along Bridge Street before turning right and following the river up to Jesus Green, which is a popular spot for picnics. 
+_Jesus Green:_ This short and pleasant walk starts from the Senate House in the center of town, which is where graduations are held. First scale the tower of nearby [Great St. Mary's](https://www.greatstmarys.org/) for amazing views of the city. Then walk north past the historic colleges of Gonville and Caius (Stephen Hawking's old college), Trinity College, and St. John's, before stopping at the [Round Church](https://roundchurchcambridge.org/). Finally, continue along Bridge Street before turning right and following the river up to Jesus Green, which is a popular spot for picnics. 
 
 _Grantchester Village:_ Attendees wishing to escape the hustle and bustle of the town might want to visit the charming village of Grantchester, south of Cambridge. The village is about a thirty minute from the center of town, most of which skirts the river Cam. Once there you can get a terrific pub lunch at one of the many pubs in the village, or visit the famous apple orchard for scones and tea [https://www.theorchardteagarden.co.uk/](https://www.theorchardteagarden.co.uk/).
 
