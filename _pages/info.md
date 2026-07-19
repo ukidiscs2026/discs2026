@@ -140,16 +140,16 @@ There are 31 colleges, though not all are accessible to the public, and those th
 
 Also worth visiting is the spectacular King's College Chapel [https://www.kings.cam.ac.uk/kings-college-chapel](https://www.kings.cam.ac.uk/kings-college-chapel)
 
-All of these generally charge admission. Admission is free for members/alumni of the unversity and a (limited number) of their guests.
+All of these generally charge admission. Admission is free for members/alumni of the university and a (limited number) of their guests.
 
 
-Just south of the city center (but receiving an order of magnitude smaller foot traffic) you will find:
+Just south of the city center (but receiving an order of magnitude smaller less traffic) you will find:
 - Pembroke College (_founded 1347_) [https://www.pem.cam.ac.uk/](https://www.pem.cam.ac.uk/)
   
 (The gardens at the back of the college are a hidden gem.)
 
 **Book stores and libraries:**
-Unsurprisingly, Cambridge is is home a large number of bookstores, big and small, as well as many libraries.
+Unsurprisingly, Cambridge is home a large number of bookstores, big and small, as well as many libraries.
 
 _Book Stores:_
 
@@ -174,17 +174,18 @@ See [https://www.museums.cam.ac.uk/](https://www.museums.cam.ac.uk/).
 
 Most of these are clustered near the center of town. A must-visit is the [Fitzwilliam Museum](https://www.museums.cam.ac.uk/museums/the-fitzwilliam-museum) which is located a five minute walk from the center of town. This museum is somewhat like a boutique version of the British Museum in London, and holds an eclectic collection, ranging from ancient Greek and Roman antiquities through to Renaissance artworks. The best part is, entrance is free!
 
-There is also a wonderful [botanic garden](https://www.botanic.cam.ac.uk) about a 20 minute walk from the center of town. (You can also take the PR3 bus from outside John Lewis and get of at the Botanic Garden stop.)
+There is also a wonderful [botanic garden](https://www.botanic.cam.ac.uk) about a 20 minute walk from the center of town. (You can also take the PR3 bus from outside John Lewis and get off at the Botanic Garden stop.)
 
 **Walks:**
 
-_Jesus Green:_ This short and pleasant walk starts from the Senate House in the center of town, which is where graduations are held. First scale the tower of nearby [Great St. Mary's](https://www.greatstmarys.org/) for amazing views of the city. Then walk north past the historic colleges of Gonville and Caius (Stephen Hawking's old college), Trinity College, and St. John's, before stopping at the [Round Church](https://roundchurchcambridge.org/). Finally, continue along Bridge Street before turning right and following the river up to Jesus Green, which is a popular spot for picnics. 
+_Jesus Green:_ This short and pleasant walk starts from the Senate House in the center of town, which is where graduations are held. First scale the tower of nearby [Great St. Mary's](https://www.greatstmarys.org/) for amazing views of the city. Then walk north past the historic colleges of Gonville and Caius (Stephen Hawking's former college), Trinity College, and St. John's, before stopping at the [Round Church](https://roundchurchcambridge.org/). Finally, continue along Bridge Street before turning right and following the river up to Jesus Green, which is a popular spot for picnics. 
 
-_Grantchester Village:_ Attendees wishing to escape the hustle and bustle of the town might want to visit the charming village of Grantchester, south of Cambridge. The village is about a 40-50 minute walk from the center of town, most of which skirts the river Cam. Once there you can get a terrific pub lunch at one of the many pubs in the village, or visit the famous apple orchard for scones and tea [https://www.theorchardteagarden.co.uk/](https://www.theorchardteagarden.co.uk/).
+_Grantchester Village:_ Attendees wishing to escape the hustle and bustle of the town might want to visit the charming village of Grantchester, south of Cambridge. The village is about a 40-50 minute walk from the center of town, most of which skirts the river Cam. Once there, you can get a traditional British pub lunch at one of the many pubs in the village, or visit the famous apple orchard for scones and tea: [https://www.theorchardteagarden.co.uk/](https://www.theorchardteagarden.co.uk/).
 
 **Punting:**
-Punting is an extremely popular and fun activity in Cambridge in summer. You book your own punts, or book guided tours, from the following companies:
+Punting is an extremely popular and fun activity in Cambridge in summer. You can book your own punts, or book guided tours, from the following companies:
 - Trinity Punts: [https://www.trin.cam.ac.uk/about/punting/](https://www.trin.cam.ac.uk/about/punting/)
+- Granta Punts: [https://puntingincambridge.com/](https://puntingincambridge.com/)
 - Scoudamore's: [https://www.scudamores.com/](https://www.scudamores.com/)
 
 
