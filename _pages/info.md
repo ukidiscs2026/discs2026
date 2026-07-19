@@ -123,10 +123,66 @@ We will be providing refreshments (tea, coffee, fruit juice, water, biscuits) th
 
 ### *Dinner/Restaurants*
 
-There are a plethora of restaurants near the city centre catering to all tastes and dietary requirements. More information to follow soon.
+There are a plethora of restaurants near the city centre catering to all tastes and dietary requirements. Some of our favorites are:
+
+Burgers:
+Pizza:
+Steakhouses:
+Indian:
+
 
 ## Local Interest {#Local}
-Coming soon.
+Cambridge is a vibrant tourist destination, with many things to see and do. Some of the more popular activities are listed below:
+
+**Colleges and University:**
+There are 31 colleges, though not all are accessible to the public, and those that are are not accessible at all times. The bigger colleges, all conveniently located near the center of town are:
+- King's College (_founded 1441_) [https://www.kings.cam.ac.uk/](https://www.kings.cam.ac.uk/)
+- Trinity College (_founded 1546_) [https://www.kings.cam.ac.uk/](https://www.trin.cam.ac.uk/)
+- St. John's College (_founded 1511_) [https://www.kings.cam.ac.uk/](https://www.joh.cam.ac.uk/)
+
+Also worth visiting is the spectacular King's College Chapel [https://www.kings.cam.ac.uk/kings-college-chapel](https://www.kings.cam.ac.uk/kings-college-chapel)
+
+All of these generally charge admission. Admission is free for members/alumni of the unversity and a (limited number) of their guests.
+
+
+Slightly off the beaten track, but sitll very conviently located is
+- Pembroke college (_founded 1347_) [https://www.pem.cam.ac.uk/](https://www.pem.cam.ac.uk/)
+The gardens at the back of the college are a hidden gem.
+
+**Book stores and libraries**
+Unsurprisingly, Cambridge is is home a large number of bookstores, big and small, as well as many libraries.
+
+_Book Stores:_
+The two big book stores are:
+- Waterstones
+- Heffers Bookshop
+A particularly charming antique book store near the center is:
+- G. David Bookseller
+
+_Libraries:_
+Sadly, most of of the nicest libraries are secluded in the various colleges, and are generally not accessible to the public. But if you make friends with some of the Cambridge-based attendees, they might give you a tour!
+
+Perhaps the most historic library is the [Wren Library](https://www.trin.cam.ac.uk/library/visitors/), which _is_ accessible to the public, albeit a limited times. It houses a copy of Newton's Principia Mathematica (1687), and is a must-see for any theoretical physicist!
+
+**Museums:**
+Cambridge is home to a large number of small, but excellent, museums.
+See [https://www.museums.cam.ac.uk/](https://www.museums.cam.ac.uk/).
+
+Most of these are clustered near the center of town. A must-visit is the [Fitzwilliam Museum](https://www.museums.cam.ac.uk/museums/the-fitzwilliam-museum) which is located a five minute walk from the center of town. This museum is somewhat like a smaller version of the British Museum in London, and holds an eclectic collection, ranging from ancient Greek and Roman antiquities through to Renaissance artworks. The best part is, entrance is free!
+
+There is also a wonderful [botanic garden](https://www.botanic.cam.ac.uk) about a 20 minute walk from the center of town. (You can also take the PR3 bus from outside John Lewis and get of at the Botanic Garden stop.)
+
+**Walks:**
+_Jesus Green_ This short and pleasant walk starts from the Senate House in the center of town, which is where graduations are held. First scale the tower of nearby [Great St. Mary's](https://www.greatstmarys.org/) for amazing views of the city. Then walk north past the historic colleges of Gonville and Caius (Stephen Hawking's old college), Trinity College, and St. John's, before stopping the [Round Church](https://roundchurchcambridge.org/). Finally, continue along Bridge Street before turning right and following the river up to Jesus Green, which is a popular spot for picnics. 
+
+_Grantchester Village_ Attendees wishing to escape the hustle and bustle of the town might want to visit the charming village of Grantchester, south of Cambridge. The village is about a thirty minute from the center of town, most of which skirts the river Cam. Once there you can get a terrific pub lunch at one of the many pubs in the village, or visit the famous apple orchard for scones and tea [https://www.theorchardteagarden.co.uk/](https://www.theorchardteagarden.co.uk/).
+
+**Punting:**
+Punting is an extremely popular and fun activity in Cambridge in summer. Attendees can book their own punts, or book guided tours, from the following companies:
+- Trinity Punts [https://www.trin.cam.ac.uk/about/punting/](https://www.trin.cam.ac.uk/about/punting/)
+- Scoudamore's [https://www.scudamores.com/](https://www.scudamores.com/)
+
+
 
 ## Access to Swimming Pools and Gyms {#Gym}
 The city hosts several gyms, pools, and climbing facilities. Below are a few options, most within a short (<20min) walking disance of the city center:
