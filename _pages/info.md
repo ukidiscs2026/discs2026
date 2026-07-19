@@ -145,24 +145,30 @@ Also worth visiting is the spectacular King's College Chapel [https://www.kings.
 All of these generally charge admission. Admission is free for members/alumni of the unversity and a (limited number) of their guests.
 
 
-Slightly off the beaten track, but sitll very conviently located is
-- Pembroke college (_founded 1347_) [https://www.pem.cam.ac.uk/](https://www.pem.cam.ac.uk/)
-The gardens at the back of the college are a hidden gem.
+Just south of the city center (but receiving an order of magnitude smaller foot traffic) you will find:
+- Pembroke College (_founded 1347_) [https://www.pem.cam.ac.uk/](https://www.pem.cam.ac.uk/)
+  
+(The gardens at the back of the college are a hidden gem.)
 
-**Book stores and libraries**
+**Book stores and libraries:**
 Unsurprisingly, Cambridge is is home a large number of bookstores, big and small, as well as many libraries.
 
 _Book Stores:_
+
 The two big book stores are:
 - Waterstones
 - Heffers Bookshop
+  
 A particularly charming antique book store near the center is:
 - G. David Bookseller
+  
+There are several other smaller bookstores (mostly selling antique books) nestled in the variou nooks and crannies of the city center.
 
 _Libraries:_
+
 Sadly, most of of the nicest libraries are secluded in the various colleges, and are generally not accessible to the public. But if you make friends with some of the Cambridge-based attendees, they might give you a tour!
 
-Perhaps the most historic library is the [Wren Library](https://www.trin.cam.ac.uk/library/visitors/), which _is_ accessible to the public, albeit a limited times. It houses a copy of Newton's Principia Mathematica (1687), and is a must-see for any theoretical physicist!
+Perhaps the most historic library is the [Wren Library](https://www.trin.cam.ac.uk/library/visitors/), which _is_ accessible to the public, albeit at limited times. It houses a copy of Isaac Newton's _Principia Mathematica_ (1687), and is a must-see for any theoretical physicist!
 
 **Museums:**
 Cambridge is home to a large number of small, but excellent, museums.
@@ -173,9 +179,10 @@ Most of these are clustered near the center of town. A must-visit is the [Fitzwi
 There is also a wonderful [botanic garden](https://www.botanic.cam.ac.uk) about a 20 minute walk from the center of town. (You can also take the PR3 bus from outside John Lewis and get of at the Botanic Garden stop.)
 
 **Walks:**
-_Jesus Green_ This short and pleasant walk starts from the Senate House in the center of town, which is where graduations are held. First scale the tower of nearby [Great St. Mary's](https://www.greatstmarys.org/) for amazing views of the city. Then walk north past the historic colleges of Gonville and Caius (Stephen Hawking's old college), Trinity College, and St. John's, before stopping the [Round Church](https://roundchurchcambridge.org/). Finally, continue along Bridge Street before turning right and following the river up to Jesus Green, which is a popular spot for picnics. 
 
-_Grantchester Village_ Attendees wishing to escape the hustle and bustle of the town might want to visit the charming village of Grantchester, south of Cambridge. The village is about a thirty minute from the center of town, most of which skirts the river Cam. Once there you can get a terrific pub lunch at one of the many pubs in the village, or visit the famous apple orchard for scones and tea [https://www.theorchardteagarden.co.uk/](https://www.theorchardteagarden.co.uk/).
+_Jesus Green:_ This short and pleasant walk starts from the Senate House in the center of town, which is where graduations are held. First scale the tower of nearby [Great St. Mary's](https://www.greatstmarys.org/) for amazing views of the city. Then walk north past the historic colleges of Gonville and Caius (Stephen Hawking's old college), Trinity College, and St. John's, before stopping the [Round Church](https://roundchurchcambridge.org/). Finally, continue along Bridge Street before turning right and following the river up to Jesus Green, which is a popular spot for picnics. 
+
+_Grantchester Village:_ Attendees wishing to escape the hustle and bustle of the town might want to visit the charming village of Grantchester, south of Cambridge. The village is about a thirty minute from the center of town, most of which skirts the river Cam. Once there you can get a terrific pub lunch at one of the many pubs in the village, or visit the famous apple orchard for scones and tea [https://www.theorchardteagarden.co.uk/](https://www.theorchardteagarden.co.uk/).
 
 **Punting:**
 Punting is an extremely popular and fun activity in Cambridge in summer. Attendees can book their own punts, or book guided tours, from the following companies:
