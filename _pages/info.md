@@ -148,7 +148,7 @@ Just south of the city center (but receiving an order of magnitude smaller less 
   
 (The gardens at the back of the college are a hidden gem.)
 
-**Book stores and libraries:**
+**Bookstores and libraries:**
 Unsurprisingly, Cambridge is home a large number of bookstores, big and small, as well as many libraries.
 
 _Book Stores:_
