@@ -11,6 +11,8 @@ The meeting will take place over three days, from Monday 20 July to Wednesday 22
 
 **Conference dinner**: the dinner will be held in the _William Mong Hall_ at [Sidney Sussex College](https://www.sid.cam.ac.uk/) on Tuesday, July 21, 2026. A drinks reception will be held from 19:00. Sit-down is at 19:30.
 
+**Online participants**: We will be sending a Zoom link for remote attendance via the conference mailing list on Monday morning, shortly before the start of the conference.
+
 
 **MONDAY JULY 20**
 
