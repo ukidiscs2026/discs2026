@@ -69,11 +69,11 @@ Chair: Anna Penzlin<br>
 
 **1125 - 1140** Simin Tong -- What can we learn about dust growth from ubiquitous dust rings?<br>
 **1140 - 1155** Felipe Alarcon -- EK Cha as a unique lab to catch late stages of planet formation.<br>
-**1155 - 1205** Morgan Williams -- Planet Formation in a Dynamic Inner Disc<br>
-**1205 - 1220** Jibin Joseph -- The Impact of Late-stage Infall on Protoplanetary disk Structure and Environment<br>
-**1220 - 1235** Lin Qiao -- Disc evolution and planetary system formation under the impacts of their natal stellar cluster environments
+**1155 - 1210** Morgan Williams -- Planet Formation in a Dynamic Inner Disc<br>
+**1210 - 1225** Jibin Joseph -- The Impact of Late-stage Infall on Protoplanetary disk Structure and Environment<br>
+**1225 - 1240** Lin Qiao -- Disc evolution and planetary system formation under the impacts of their natal stellar cluster environments
 
-**1235 - 1400** LUNCH
+**1240 - 1400** LUNCH
 
 _Afternoon sessions_
 
