@@ -48,7 +48,7 @@ Chair: Loren E. Held<br>
 **1625 - 1640**  Poster Presentations 2<br>
 **1640 - 1710**  Coffee break
 
-**1640 - 1755**  Chiara Scardoni -- From inward to outward : how eccentricity in discs can change the fate of giant planets<br>
+**1710 - 1725**  Chiara Scardoni -- From inward to outward : how eccentricity in discs can change the fate of giant planets<br>
 **1725 - 1740**  Anna Penzlin -- Circumbinary discs at the limit<br>
 **1740 - 1755**  Cheng Chen -- The Arc in the DX Cha Circumbinary System: Evidence For a Retrograde Circumbinary Disk
 
