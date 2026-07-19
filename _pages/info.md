@@ -85,7 +85,7 @@ You can travel to Cambridge from other parts of the UK by long-distance coach vi
 ### *Arriving by car*
 There is very limited parking at the department (Centre for Mathematical Sciences). Attendants wishing to park here should contact the organizers first. 
 
-There is also a parking garage in the centre of town (Grand Arcade car park), although this is quite pricey. F
+There is also a parking garage in the centre of town (Grand Arcade car park), although this is quite pricey.
 
 Finally, there are two large car parks on the outskirts of town (i) Trumpington Park and Ride and (ii) Madingley Road Park and Ride. Buses run frequently from these to the center of town.
 
