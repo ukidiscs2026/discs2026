@@ -40,7 +40,8 @@ For any queries, please email [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukid
 - Roman Rafikov (DAMTP, Cambridge)
 - Cristiano Longarini (Institute of Astronomy)
 - Amelia Cordwell (DAMTP, Cambridge)
-- Josh Brown (DAMTP, Cambridge)
+- Marianna Szambelan (DAMTP, Cambridge) 
+- Deniz Akansoy (DAMTP, Cambridge)
 
 ## Important Dates
 - Registration and abstract submission opens: **Friday January 30 2026**
