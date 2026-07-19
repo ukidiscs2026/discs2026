@@ -151,7 +151,7 @@ Just south of the city center (but receiving significantly less foot traffic) yo
 **Bookstores and libraries:**
 Unsurprisingly, Cambridge is home a large number of bookstores, big and small, as well as many libraries.
 
-_Book Stores:_
+_Bookstores:_
 
 The two big book stores are:
 - Waterstones
