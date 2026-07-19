@@ -172,7 +172,7 @@ Perhaps the most historic library is the [Wren Library](https://www.trin.cam.ac.
 Cambridge is home to a large number of small, but excellent, museums.
 See [https://www.museums.cam.ac.uk/](https://www.museums.cam.ac.uk/).
 
-Most of these are clustered near the center of town. A must-visit is the [Fitzwilliam Museum](https://www.museums.cam.ac.uk/museums/the-fitzwilliam-museum) which is located a five minute walk from the center of town. This museum is somewhat like a smaller version of the British Museum in London, and holds an eclectic collection, ranging from ancient Greek and Roman antiquities through to Renaissance artworks. The best part is, entrance is free!
+Most of these are clustered near the center of town. A must-visit is the [Fitzwilliam Museum](https://www.museums.cam.ac.uk/museums/the-fitzwilliam-museum) which is located a five minute walk from the center of town. This museum is somewhat like a boutique version of the British Museum in London, and holds an eclectic collection, ranging from ancient Greek and Roman antiquities through to Renaissance artworks. The best part is, entrance is free!
 
 There is also a wonderful [botanic garden](https://www.botanic.cam.ac.uk) about a 20 minute walk from the center of town. (You can also take the PR3 bus from outside John Lewis and get of at the Botanic Garden stop.)
 
