@@ -190,8 +190,8 @@ _Grantchester Village:_ Attendees wishing to escape the hustle and bustle of the
 
 **Punting:**
 Punting is an extremely popular and fun activity in Cambridge in summer. Attendees can book their own punts, or book guided tours, from the following companies:
-- Trinity Punts [https://www.trin.cam.ac.uk/about/punting/](https://www.trin.cam.ac.uk/about/punting/)
-- Scoudamore's [https://www.scudamores.com/](https://www.scudamores.com/)
+- Trinity Punts: [https://www.trin.cam.ac.uk/about/punting/](https://www.trin.cam.ac.uk/about/punting/)
+- Scoudamore's: [https://www.scudamores.com/](https://www.scudamores.com/)
 
 
 
