@@ -83,7 +83,11 @@ From Cambridge Station, you can reach the department by bus (£3, 20-25 minutes)
 You can travel to Cambridge from other parts of the UK by long-distance coach via **National Express** [https://www.nationalexpress.com/en](https://www.nationalexpress.com/en). Services stop at either **Parker's Piece** (near the centre of town) or **Madingley Park and Ride** in west Cambridge depending on the route. The latter is about a 21min walk from the department.
 
 ### *Arriving by car*
-Informing coming soon.
+There is very limited parking at the department (Centre for Mathematical Sciences). Attendants wishing to park here should contact the organizers first. 
+
+There is also a parking garage in the centre of town (Grand Arcade car park), although this is quite pricey. F
+
+inally there are two large car parks on the outskirts of town (i) Trumpington Park and Ride and (ii) Maddingley Park and Ride. Buses run frequently from these to the center of town.
 
 <!--For those wishing to park at the de Havilland campus, there is a large open air car park that you'll come into as you drive on to campus. It's marked **DH1** on the map here: [https://www.herts.ac.uk/__data/assets/pdf_file/0003/66774/campus-parking.pdf](https://www.herts.ac.uk/__data/assets/pdf_file/0003/66774/campus-parking.pdf)
 
