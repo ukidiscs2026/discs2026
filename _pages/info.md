@@ -143,7 +143,7 @@ Also worth visiting is the spectacular King's College Chapel [https://www.kings.
 All of these generally charge admission. Admission is free for members/alumni of the university and a (limited number) of their guests.
 
 
-Just south of the city center (but receiving an order of magnitude smaller less traffic) you will find:
+Just south of the city center (but receiving much less foot traffic) you will find:
 - Pembroke College (_founded 1347_) [https://www.pem.cam.ac.uk/](https://www.pem.cam.ac.uk/)
   
 (The gardens at the back of the college are a hidden gem.)
