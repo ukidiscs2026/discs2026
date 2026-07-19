@@ -166,7 +166,7 @@ The two big book stores are:
 A particularly charming antique book store near the center is:
 - G. David Bookseller
   
-There are several other smaller bookstores (mostly selling antique books) nestled in the variou nooks and crannies of the city center.
+There are several other smaller bookstores (mostly selling antique books) nestled in the various nooks and crannies of the city center.
 
 _Libraries:_
 
