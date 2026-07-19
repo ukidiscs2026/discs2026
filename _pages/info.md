@@ -71,7 +71,7 @@ MR2 itself is an auditorium located down the stairs immediately opposite the ent
 
 ## Getting Here {#GettingHere}
 ### *Arriving by train*
-Cambridge has two train stations: Cambridge and Cambridge North. We strongly recommend arriving at **Cambridge**, which is located just 4km (2.5 miles) from DAMTP. The station sits on the Great Northern Line, with regular direct services from London Kings Cross, making it easily accessible from central London and surrounding areas.
+Cambridge has three train stations: Cambridge South (newly opened), Cambridge, Cambridge North. We strongly recommend arriving at **Cambridge**, which is located just 4km (2.5 miles) from DAMTP. The station sits on the Great Northern Line, with regular direct services from London Kings Cross, making it easily accessible from central London and surrounding areas.
 
 From Cambridge Station, you can reach the department by bus (£3, 20-25 minutes) or by taxi/Uber (£8–£12, 10-12 min).
 
