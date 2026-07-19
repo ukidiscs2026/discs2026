@@ -63,9 +63,9 @@ There are three ways of accessing the central core (see map):
 - (ii) by walking past the _Betty and Gordon Moore Library_ (recommended if coming from the north), 
 - (ii) following the footpath and entering through the _Faulkes Gatehouse_ (recommended if coming from the south).
 
-After you enter the Central Core, the registration desk will be located immediately to the _right_. 
+After you enter the Central Core (Pavilian A) from the main entrance (i.e. the east-facing entrance), the registration desk will be located immediately to the _right_.  
 
-MR2 itself is located down the stairs immediately opposite the entrance to the Central Core.
+MR2 itself is an auditorium located down the stairs immediately opposite the entrance to the Central Core.
 ![Campus Map](../assets/images/CentreForMathematicalSciencesMAP.png)
 
 
