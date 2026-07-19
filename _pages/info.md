@@ -153,11 +153,11 @@ Unsurprisingly, Cambridge is home a large number of bookstores, big and small, a
 
 _Bookstores:_
 
-The two big book stores are:
+The two big bookstores are:
 - Waterstones
 - Heffers Bookshop
   
-A particularly charming antique book store near the center is:
+A particularly charming antique bookstore near the center is:
 - G. David Bookseller
   
 There are several other smaller bookstores (mostly selling antique books) nestled in the various nooks and crannies of the city center.
