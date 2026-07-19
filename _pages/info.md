@@ -127,7 +127,7 @@ We will be providing refreshments (tea, coffee, fruit juice, water, biscuits) th
 
 ### *Dinner/Restaurants*
 
-There are a plethora of restaurants near the city centre (i.e. within a 5-10 minute walk from the Sentae Hosue) catering to all tastes and dietary requirements.
+There are a plethora of restaurants near the city centre (i.e. within a 5-10 minute walk from the Senate Hosue) catering to all tastes and dietary requirements.
 
 ## Local Interest {#Local}
 Cambridge is a vibrant tourist destination, with many things to see and do. Some of the more popular activities are listed below:
