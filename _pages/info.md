@@ -87,7 +87,7 @@ There is very limited parking at the department (Centre for Mathematical Science
 
 There is also a parking garage in the centre of town (Grand Arcade car park), although this is quite pricey. F
 
-Finally, there are two large car parks on the outskirts of town (i) Trumpington Park and Ride and (ii) Maddingley Park and Ride. Buses run frequently from these to the center of town.
+Finally, there are two large car parks on the outskirts of town (i) Trumpington Park and Ride and (ii) Madingley Road Park and Ride. Buses run frequently from these to the center of town.
 
 <!--For those wishing to park at the de Havilland campus, there is a large open air car park that you'll come into as you drive on to campus. It's marked **DH1** on the map here: [https://www.herts.ac.uk/__data/assets/pdf_file/0003/66774/campus-parking.pdf](https://www.herts.ac.uk/__data/assets/pdf_file/0003/66774/campus-parking.pdf)
 
