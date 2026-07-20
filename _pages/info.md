@@ -140,7 +140,7 @@ There are 31 colleges, though not all are accessible to the public, and those th
 
 Also worth visiting is the spectacular King's College Chapel [https://www.kings.cam.ac.uk/kings-college-chapel](https://www.kings.cam.ac.uk/kings-college-chapel)
 
-All of these generally charge admission. Admission is free for members/alumni of the university and a (limited number) of their guests.
+All of these generally charge admission. Admission is free for members/alumni of the university and (a limited number of) their guests.
 
 
 Just south of the city center (but receiving significantly less foot traffic) you will find:
@@ -164,7 +164,7 @@ There are several other smaller bookstores (mostly selling antique books) nestle
 
 _Libraries:_
 
-Sadly, most of of the nicest libraries are secluded in the various colleges, and are generally not accessible to the public. But if you make friends with some of the Cambridge-based attendees, they might give you a tour!
+Sadly, most of the nicest libraries are secluded in the various colleges, and are generally not accessible to the public. But if you make friends with some of the Cambridge-based attendees, they might give you a tour!
 
 Perhaps the most historic library is the [Wren Library](https://www.trin.cam.ac.uk/library/visitors/), which _is_ accessible to the public, albeit at limited times. It houses a copy of Isaac Newton's _Principia Mathematica_ (1687), and is a must-see for any theoretical physicist!
 
