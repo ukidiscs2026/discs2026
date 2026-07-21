@@ -84,7 +84,7 @@ Chair: Prasun Dhang<br>
 **1455 - 1510** Martin Bourne -- Supermassive black hole binary dynamics, growth and spin alignment in gas-rich circumbinary discs<br>
 **1510 - 1525** Martin Maximus Hyldahl -- Modelling Black Holes as Sink Particles<br>
 **1525 - 1540** Matthew Middleton -- Misaligned super-Eddington accretion and the growth of supermassive black holes<br>
-**1540 - 1600** Coffee Break
+**1540 - 1600** Coffee Break + PHOTO
 
 Chair: Chiara Niccolai<br>
 **1600 - 1615** Joaquin Pelle -- Accretion-powered flares from black hole-disk collisions in galactic nuclei<br>
