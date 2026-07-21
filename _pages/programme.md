@@ -120,7 +120,7 @@ Chair: Martin Bourne<br>
 **1400 - 1440** Alison Young -- Review on warped disks and flybys<br>
 **1440 - 1455** Sahl Rowther -- Planet Formation in Warped Discs Driven by Gravitational Instability and Infall<br>
 **1455 - 1510** Callum Fairbairn -- Dust Dynamics in Warped Discs<br>
-**1510 - 1525** Yona Baleradj-Lapeyre -- Exascale simulations of warped accretion discs<br>
+**1510 - 1525** Yona Belaredj-Lapeyre -- Exascale simulations of warped accretion discs<br>
 **1525 - 1545** Coffee break
 
 **1545 - 1600** Greg Marcel -- Disk warping to unify low-frequency QPOs in X-ray Binaries<br>
