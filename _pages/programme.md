@@ -128,3 +128,33 @@ Chair: Cristiano Longarini<br>
 **1615 - 1630** Arcelia Hermosillo Ruiz -- A Stellar Flyby in Action: Untangling the Dynamics of HD141569's Hybrid Disc
 
 **1630 - 1645** Closing Remarks
+
+
+_Poster Session 1: Flash talks_<br>
+Deniz Akansoy -- Modelling shadows in scattered light observations as signals from companions in protoplanetary discs<br>
+Khusan Alibekov -- DiskTilt: New General Relativistic Model for Tilted Thin Accretion Discs around Kerr Black Hole<br>
+Oliver Brown -- Dynamics of Warped Protoplanetary Discs in Grid-Based Simulations<br>
+Timmy Delage -- Formation of planetary cores during the secular evolution of magnetized protoplanetary disks<br>
+Michael Elston -- Automatic exocomet detection in spectra and light curves of β Pictoris<br>
+Juan Garrido-Deutelmoser -- Instabilities and Structure Formation in Weakly Self-Gravitating Disks<br>
+Olcay Atesh Goksu -- Parameter Study of Dust Growth And Streaming Instability Onset In Wind-Driven Disks<br>
+Emmanuel Greenfield -- The effect of disc photoevaporation on the evolution of migrating giant planets<br>
+Pawel Janas -- Project STRIKE: STellar Remnant Impacts on protoplanetary disKs and Envelopes<br>
+Jay V. Kalinani -- Black-hole disk collisions and jet precession in small-mass-ratio supermassive black hole binaries<br>
+K. Khushboo -- JWST/MIRI Observations of the Nuclear Region of NGC 7582<br>
+Guillaime Laibe -- Topological discoseimology of pressure dips and bumps<br>
+Hans Lee -- Runaway accretion on disc fragmentation planets: brown dwarf desert and metallicity correlations<br>
+Cristiano Longarini -- The role of gravitational instability in planet-forming discs
+
+_Poster Session 2: Flash talks_<br>
+James Miley -- A complete ALMA census of A-star debris discs at 15-20 Myr<br>
+Miquel Miravet-Tenes -- An effective model for magnetic field amplification by the magnetorotational and parasitic instabilities<br>
+Michael Munnelly -- Stellar Flybys as a Pathway to Polar Circumbinary Discs<br>
+Aneurin Orme -- Effects of Periodic Variable Accretion on the Inner Disk of DQ Tau<br>
+Cory Padgett -- Planet-Excited Eccentricity and Precession in Protoplanetary Disks<br>
+Ishika Palit -- Cold Chaotic Accretion in M87: A GRMHD Approach to Understanding Black Hole Feeding (Tilted Black-Hole Magnetospheres)<br>
+Olivia Pereira -- Probing Black Hole-Disk Coupling and Multi-Phase Feedback in the Core of NGC 4696 with JWST<br>
+Mateusz Rałowski -- Studying the quasar - host co-evolution: the role of contaminations in disk and torus emission<br>
+Antranik A. Sefilian -- When debris disks fight back: Self-gravity suppresses planet-induced secular excitation<br>
+Benjamin Silk -- Coupling Coagulation to Hydrodynamics with Machine Learning Model Surrogates<br>
+Loyao Zhang -- Disc fragmentation: formation of close binaries, their planets, and free floating planet ejection<br>
