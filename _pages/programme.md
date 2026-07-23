@@ -116,7 +116,7 @@ Chair: Debora Lančová<br>
 
 _Afternoon sessions_
 
-Chair: Martin Bourne<br>
+Chair: Cristiano Longarini<br>
 **1400 - 1440** Alison Young -- Review on warped disks and flybys<br>
 **1440 - 1455** Sahl Rowther -- Planet Formation in Warped Discs Driven by Gravitational Instability and Infall<br>
 **1455 - 1510** Callum Fairbairn -- Dust Dynamics in Warped Discs<br>
