@@ -3,7 +3,7 @@ permalink: /participants/
 title: "Participants"
 header:
   image: "/assets/images/conference_photo.jpg"
-  caption: "Credit: © Mark Garlick."
+  caption: "Credit: © Deniz Akansoy."
 ---
 
 Registered attendees (subject to change):
