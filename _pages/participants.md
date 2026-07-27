@@ -6,6 +6,8 @@ header:
   caption: "Credit: © Mark Garlick."
 ---
 
+![Participants](../assets/images/conference_photo.jpg)
+
 Registered attendees (subject to change):
 
 - Ricard Aguilera Miret	(University of Hamburg)
