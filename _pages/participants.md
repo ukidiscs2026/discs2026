@@ -6,6 +6,7 @@ header:
   caption: "Credit: © Mark Garlick."
 ---
 
+_We thank all attendees for a fantastic conference! See you all again soon!_
 ![Participants](../assets/images/conference_photo.jpg)
 
 Registered attendees (subject to change):
