@@ -2,7 +2,7 @@
 permalink: /participants/
 title: "Participants"
 header:
-  image: "/assets/images/conference_photo.jpg)"
+  image: "/assets/images/conference_photo.jpg"
   caption: "Credit: © Mark Garlick."
 ---
 
