@@ -8,7 +8,7 @@ header:
 
 **Registration and abstract submission**
 
-<span style="color: #e74c3c;">In-person registration is closed. Registration is now only possible for online attendance. </span>
+<span style="color: #e74c3c;">Registration closed. </span>
 
 <!--<span style="color: #e74c3c;">The SOC are finalizing requests for talks. If you requested a talk, we will announce our decision by **Friday May 8 2026**.</span> -->
 
@@ -18,7 +18,7 @@ The meeting spans three days of traditional conference-style talks and discussio
 
 <!--We aim to ensure that everyone who submits an abstract has the opportunity to present—either as a talk or a poster.-->
 
-[Click here to register (online only)](https://docs.google.com/forms/d/e/1FAIpQLScdi6NYGSHmLzwwUD-tqU2xMl-IY0tvALhpYKZXbDN9oEOXVQ/viewform)
+<!--[Click here to register (online only)](https://docs.google.com/forms/d/e/1FAIpQLScdi6NYGSHmLzwwUD-tqU2xMl-IY0tvALhpYKZXbDN9oEOXVQ/viewform)-->
 
 If you experience any issues with registration please email [soc-ukidiscs2026@lists.cam.ac.uk](mailto:soc-ukidiscs2026@lists.cam.ac.uk).
 
