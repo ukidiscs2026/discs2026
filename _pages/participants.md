@@ -2,12 +2,9 @@
 permalink: /participants/
 title: "Participants"
 header:
-  image: "/assets/images/HD98800_Mark_Garlick.png"
+  image: "/assets/images/conference_photo.jpg)"
   caption: "Credit: © Mark Garlick."
 ---
-
-_We thank all attendees for a fantastic conference! See you all again soon!_
-![Participants](../assets/images/conference_photo.jpg)
 
 Registered attendees (subject to change):
 
